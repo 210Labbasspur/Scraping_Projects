@@ -1,0 +1,2 @@
+scrapy crawl google_business
+pause
