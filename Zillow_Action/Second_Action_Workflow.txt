@@ -1,0 +1,62 @@
+				Workflow of the Script: Extracting PreForeclosure Properties from Zillow.com (FL State)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The Python Scrapy script is designed to extract PreForeclosure property listings from Zillow.com for the state of Florida (FL). Since Zillow imposes a limit of 1000 properties per search, the script employs a segmented approach by dividing searches into multiple price ranges to ensure that all properties can be extracted. Below is a detailed workflow of the script:
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+						Functional Overview
+1. Purpose:
+	- The script aims to extract PreForeclosure properties from Zillow.com, focusing on Florida (FL), ensuring all records are retrieved despite Zillow's 1000-property limitation.
+2. Approach:
+	- Segment the search queries by price ranges to bypass Zillow's property count restriction.
+	- Handle properties efficiently by tracking and updating databases of scraped properties.
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------					   Technical Flow and Components
+Input Files and Outputs
+1. Zillow_Second_Action_Database.csv:
+	- Contains ZPIDs (Zillow Property IDs) of all properties that have already been scraped and also new properties ZPID's will be saved inside this during the script.
+	- Used as a reference database to avoid re-scraping properties.
+2. Zillow_Second_Action_New.json:
+	- Stores all property records, including both previously scraped and newly scraped properties.
+	- Serves as the final collection of all data for analysis or further use.
+3. Zillow_Second_Action_Old.json:
+	- Contains old property records merged with new ones for continuity.
+	- Important Note: This file only saves updated records when the script terminates gracefully using the close method inside the script.
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------						Key Considerations
+1. Graceful Shutdown:
+	- To ensure Zillow_Second_Action_Old.json is properly updated, terminate the script by pressing Ctrl+C once.
+	- If the script is forcefully stopped (e.g., pressing Ctrl+C multiple times), the close method will not be executed, and the file will not save the updated records.
+2. Recovery Mechanism:
+	- In case of abrupt termination, all properties (including new ones) will still be saved in Zillow_Second_Action_New.json.
+	- These records can be manually copied into Zillow_Second_Action_Old.json to maintain consistency.
+--------------------------------------------------------------------------------------------------------------------------------
+						  Execution Flow
+1. Initialization:
+	- Load Zillow_Second_Action_Database.csv to identify previously scraped properties.
+	- Start the segmented search based on price ranges for Florida state properties.
+2. Scraping:
+	- Extract property details for each price range.
+	- Check each property's ZPID against the database (Zillow_Second_Action_Database.csv) to determine if it is new.
+	- For new properties:
+		-- Save the details in Zillow_Second_Action_New.json.
+		-- Update Zillow_Second_Action_Database.csv with the new ZPID.
+3. Saving Records:
+	- All property records are incrementally saved to Zillow_Second_Action_New.json throughout the scraping process.
+	- Upon graceful shutdown:
+		-- Combine old and new properties in Zillow_Second_Action_Old.json for a complete dataset.
+4. Handling Script Termination:
+	- If interrupted gracefully (Ctrl+C once):
+		-- The close method will be called, saving updated records to Zillow_Second_Action_Old.json.
+	- If interrupted forcefully (Ctrl+C multiple times):
+		-- The close method will not execute, leaving Zillow_Second_Action_Old.json incomplete.
+		-- Recovery is possible by manually copying data from Zillow_Second_Action_New.json.
+--------------------------------------------------------------------------------------------------------------------------------
+						 Tips for Users
+1. Graceful Shutdown: Always use a single Ctrl+C to terminate the script gracefully (if required) and ensure Zillow_Second_Action_Old.json is updated.
+
+2. Data Integrity: In case of unexpected termination, rely on Zillow_Second_Action_New.json for complete data and manually synchronize with Zillow_Second_Action_Old.json.
+
+3. Database Management: Regularly review Zillow_Second_Action_Database.csv to ensure ZPID integrity and avoid duplications.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+This workflow ensures a systematic, reliable, and recoverable process for extracting property data while overcoming Zillow’s inherent limitations.
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------

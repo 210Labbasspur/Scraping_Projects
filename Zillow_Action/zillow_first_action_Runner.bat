@@ -1,0 +1,2 @@
+scrapy crawl zillow_first_action
+pause

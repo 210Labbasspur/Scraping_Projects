@@ -1,0 +1,4661 @@
+[
+    {
+        "Zpid": "216683448",
+        "Street_address": "25 N Oregon Ave",
+        "City": "Danville",
+        "State": "IL",
+        "ZipCode": "61832",
+        "Price": null,
+        "Beds": null,
+        "Baths": null,
+        "Sqr_feet": null,
+        "Home_Status": "Pre-foreclosure",
+        "Zestimate": null,
+        "RentZestimate": 706,
+        "Days_on_zillow": 27,
+        "Home_Type": "LOT",
+        "Lat_Long": {
+            "latitude": 40.132645,
+            "longitude": -87.58066
+        },
+        "Broker_Name": null,
+        "Event Description": "This is a vacant land. This home is located at 25 N Oregon Ave, Danville, IL 61832.",
+        "Listing Photos": [],
+        "Complete_url": "https://www.zillow.com/homedetails/25-N-Oregon-Ave-Danville-IL-61832/216683448_zpid/",
+        "URL": "https://www.zillow.com/homedetails/25-N-Oregon-Ave-Danville-IL-61832/216683448_zpid/",
+        "Structure Area": null,
+        "Type": "VacantLand",
+        "Year Built": null,
+        "Heating": null,
+        "Cooling": null,
+        "Parking": "No Data",
+        "HOA": "",
+        "Lot": "",
+        "Price/sqft": "",
+        "Offer Review Date": null,
+        "Foreclosure Details": {
+            "trusteeName": "Johnson Blumberg and Associates LLC",
+            "trusteeAddress": "30 N LaSalle St Suite 3650, CHICAGO, IL 60602",
+            "trusteePhone": "(312) 541-9710",
+            "legalDescription": null,
+            "subdivision": null,
+            "recordedDocs": [
+                {
+                    "name": "Notice of Lis Pendens",
+                    "number": null,
+                    "date": 1728543600000
+                },
+                {
+                    "name": "Notice of Sale",
+                    "number": null,
+                    "date": 1744182000000
+                }
+            ],
+            "apn": "23-02-307-018",
+            "foreclosureDefaultFilingDate": 1728518400000,
+            "foreclosureAuctionFilingDate": "2025-04-09 00:00:00",
+            "foreclosureLoanDate": null,
+            "foreclosureLoanOriginator": "QUICKEN LOANS INC",
+            "foreclosureLoanAmount": null,
+            "foreclosurePriorSaleDate": 1199232000000,
+            "foreclosurePriorSaleAmount": 16000,
+            "foreclosureBalanceReportingDate": null,
+            "foreclosureDefaultDescription": "Notice of Lis Pendens",
+            "foreclosurePastDueBalance": null,
+            "foreclosureUnpaidBalance": 32717,
+            "foreclosureAuctionTime": 1746093600000,
+            "foreclosureAuctionDescription": "Notice of Sale",
+            "foreclosureAuctionCity": "Danville",
+            "foreclosureAuctionLocation": "7N Vermilion St",
+            "foreclosureDate": null,
+            "foreclosureAmount": null,
+            "foreclosingBank": "QUICKEN LOANS INC",
+            "foreclosureJudicialType": "Judicial"
+        },
+        "Agent_name": null,
+        "Agent_phone": null,
+        "Price History": [],
+        "Tax History": [
+            {
+                "time": 1683387814973,
+                "taxPaid": 57.7,
+                "taxIncreaseRate": 0.04114043,
+                "value": 588,
+                "valueIncreaseRate": 0.12859885
+            },
+            {
+                "time": 1651851814973,
+                "taxPaid": 55.42,
+                "taxIncreaseRate": 0.04842977,
+                "value": 521,
+                "valueIncreaseRate": 0.080912866
+            },
+            {
+                "time": 1620315814973,
+                "taxPaid": 52.86,
+                "taxIncreaseRate": 0.026407778,
+                "value": 482,
+                "valueIncreaseRate": 0.034334764
+            },
+            {
+                "time": 1588779814973,
+                "taxPaid": 51.5,
+                "taxIncreaseRate": 0.021015095,
+                "value": 466,
+                "valueIncreaseRate": 0.021929825
+            },
+            {
+                "time": 1494085414973,
+                "taxPaid": 50.44,
+                "taxIncreaseRate": 0,
+                "value": 456,
+                "valueIncreaseRate": -0.5516224
+            },
+            {
+                "time": 1430927014973,
+                "taxPaid": 50.44,
+                "taxIncreaseRate": 0,
+                "value": 1017,
+                "valueIncreaseRate": 0
+            },
+            {
+                "time": 1399391014973,
+                "taxPaid": null,
+                "taxIncreaseRate": 0,
+                "value": 1017,
+                "valueIncreaseRate": 0
+            },
+            {
+                "time": 1367855014973,
+                "taxPaid": null,
+                "taxIncreaseRate": 0,
+                "value": 1017,
+                "valueIncreaseRate": 0
+            }
+        ],
+        "Nearby Homes": [
+            {
+                "zpid": 216683455,
+                "miniCardPhotos": [
+                    {
+                        "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=316x234&zoom=17&center=40.13234329223633,-87.58065032958984&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=QuPbMyiTwPv6sZn3nOvqFSTSoOk="
+                    }
+                ],
+                "price": 53000,
+                "currency": "USD",
+                "bedrooms": null,
+                "bathrooms": null,
+                "livingArea": null,
+                "livingAreaValue": null,
+                "livingAreaUnits": null,
+                "livingAreaUnitsShort": null,
+                "listingMetadata": {
+                    "comminglingCategoryIsRulesApplicable": false
+                },
+                "lotSize": 6534,
+                "lotAreaValue": 6534,
+                "lotAreaUnits": "Square Feet",
+                "address": {
+                    "streetAddress": "7 N Oregon Ave",
+                    "city": "Danville",
+                    "state": "IL",
+                    "zipcode": "61832"
+                },
+                "parentRegion": null,
+                "formattedChip": {
+                    "location": [
+                        {
+                            "fullValue": "7 N Oregon Ave"
+                        },
+                        {
+                            "fullValue": null
+                        }
+                    ]
+                },
+                "latitude": 40.132343,
+                "longitude": -87.58065,
+                "homeStatus": "SOLD",
+                "homeType": "SINGLE_FAMILY",
+                "hdpUrl": "/homedetails/7-N-Oregon-Ave-Danville-IL-61832/216683455_zpid/",
+                "hdpTypeDimension": "RecentlySold",
+                "propertyTypeDimension": "Single Family",
+                "listingTypeDimension": "Unknown Listed By",
+                "listing_sub_type": {
+                    "is_newHome": false,
+                    "is_forAuction": false,
+                    "is_bankOwned": false,
+                    "is_foreclosure": false,
+                    "is_FSBO": false,
+                    "is_comingSoon": false,
+                    "is_FSBA": false
+                },
+                "providerListingID": null,
+                "attributionInfo": {
+                    "mlsId": null,
+                    "mlsName": null,
+                    "providerLogo": null,
+                    "agentName": null,
+                    "agentPhoneNumber": null,
+                    "brokerName": null,
+                    "brokerPhoneNumber": null,
+                    "trueStatus": null
+                },
+                "isShowcaseListing": false,
+                "isPremierBuilder": false,
+                "state": "IL",
+                "newConstructionType": null
+            }
+        ],
+        "Comparable Homes": []
+    },
+    {
+        "Zpid": "80285487",
+        "Street_address": "104 Jones Ln",
+        "City": "Danville",
+        "State": "IL",
+        "ZipCode": "61832",
+        "Price": null,
+        "Beds": 2,
+        "Baths": 2.0,
+        "Sqr_feet": null,
+        "Home_Status": "Pre-foreclosure",
+        "Zestimate": 69100,
+        "RentZestimate": 884,
+        "Days_on_zillow": 8,
+        "Home_Type": "SINGLE_FAMILY",
+        "Lat_Long": {
+            "latitude": 40.13627,
+            "longitude": -87.64638
+        },
+        "Broker_Name": null,
+        "Event Description": "9 Room Home, Partial Basement, 2 Detached Garages, Black Top Drive. Plenty of Yard, Fenced in on three sides. Oakwood School District, Close to Shopping, Restaurants, Rt 150.  Open concept Kitchen",
+        "Listing Photos": [],
+        "Complete_url": "https://www.zillow.com/homedetails/104-Jones-Ln-Danville-IL-61832/80285487_zpid/",
+        "URL": "https://www.zillow.com/homedetails/104-Jones-Ln-Danville-IL-61832/80285487_zpid/",
+        "Structure Area": null,
+        "Type": "SingleFamily",
+        "Year Built": null,
+        "Heating": null,
+        "Cooling": null,
+        "Parking": "No Data",
+        "HOA": "",
+        "Lot": "9,583 sqft",
+        "Price/sqft": "",
+        "Offer Review Date": null,
+        "Foreclosure Details": {
+            "trusteeName": "ROBERTSON ANSCHUTZ SCHNEID CRANE AND PAR",
+            "trusteeAddress": "205 N MICHIGAN AVE STE 810, CHICAGO, IL 60601",
+            "trusteePhone": "(561) 241-6901",
+            "legalDescription": null,
+            "subdivision": null,
+            "recordedDocs": [
+                {
+                    "name": "Notice of Sale",
+                    "number": null,
+                    "date": 1745823600000
+                }
+            ],
+            "apn": "22-12-207-015",
+            "foreclosureDefaultFilingDate": null,
+            "foreclosureAuctionFilingDate": "2025-04-28 00:00:00",
+            "foreclosureLoanDate": null,
+            "foreclosureLoanOriginator": "MORTGAGE ASSETS MANAGEMENT LLC",
+            "foreclosureLoanAmount": null,
+            "foreclosurePriorSaleDate": 570412800000,
+            "foreclosurePriorSaleAmount": 4000,
+            "foreclosureBalanceReportingDate": null,
+            "foreclosureDefaultDescription": null,
+            "foreclosurePastDueBalance": null,
+            "foreclosureUnpaidBalance": null,
+            "foreclosureAuctionTime": 1752746400000,
+            "foreclosureAuctionDescription": "Notice of Sale",
+            "foreclosureAuctionCity": "Danville",
+            "foreclosureAuctionLocation": "7 North Vermilion Street",
+            "foreclosureDate": null,
+            "foreclosureAmount": null,
+            "foreclosingBank": "MORTGAGE ASSETS MANAGEMENT LLC",
+            "foreclosureJudicialType": "Judicial"
+        },
+        "Agent_name": null,
+        "Agent_phone": null,
+        "Price History": [
+            {
+                "date": "2024-04-16",
+                "price": 100000,
+                "time": 1713225600000,
+                "pricePerSquareFoot": null,
+                "priceChangeRate": 24,
+                "event": "Listed for sale",
+                "source": "Owner",
+                "buyerAgent": null,
+                "sellerAgent": null,
+                "showCountyLink": false,
+                "postingIsRental": false,
+                "attributeSource": {
+                    "infoString1": "",
+                    "infoString2": "Owner",
+                    "infoString3": null
+                }
+            },
+            {
+                "date": "1988-01-29",
+                "price": 4000,
+                "time": 570412800000,
+                "pricePerSquareFoot": null,
+                "priceChangeRate": 0,
+                "event": "Sold",
+                "source": "Agent Provided",
+                "buyerAgent": null,
+                "sellerAgent": null,
+                "showCountyLink": false,
+                "postingIsRental": false,
+                "attributeSource": {
+                    "infoString1": null,
+                    "infoString2": null,
+                    "infoString3": null
+                }
+            }
+        ],
+        "Tax History": [
+            {
+                "time": 1683387818352,
+                "taxPaid": 190.5,
+                "taxIncreaseRate": -0.023477556,
+                "value": 19750,
+                "valueIncreaseRate": 0.12941042
+            },
+            {
+                "time": 1651851818352,
+                "taxPaid": 195.08,
+                "taxIncreaseRate": -0.057402417,
+                "value": 17487,
+                "valueIncreaseRate": 0.08004447
+            },
+            {
+                "time": 1620315818352,
+                "taxPaid": 206.96,
+                "taxIncreaseRate": -0.0072908145,
+                "value": 16191,
+                "valueIncreaseRate": 0.03496548
+            },
+            {
+                "time": 1588779818352,
+                "taxPaid": 208.48,
+                "taxIncreaseRate": -0.010348466,
+                "value": 15644,
+                "valueIncreaseRate": 0.022617336
+            },
+            {
+                "time": 1494085418352,
+                "taxPaid": 210.66,
+                "taxIncreaseRate": 0,
+                "value": 15298,
+                "valueIncreaseRate": 0.10646608
+            },
+            {
+                "time": 1430927018352,
+                "taxPaid": 210.66,
+                "taxIncreaseRate": -0.19540143,
+                "value": 13826,
+                "valueIncreaseRate": 0
+            },
+            {
+                "time": 1399391018352,
+                "taxPaid": 261.82,
+                "taxIncreaseRate": 0,
+                "value": 13826,
+                "valueIncreaseRate": 0
+            },
+            {
+                "time": 1367855018352,
+                "taxPaid": 261.82,
+                "taxIncreaseRate": 0,
+                "value": 13826,
+                "valueIncreaseRate": -0.15874657
+            },
+            {
+                "time": 1336319018352,
+                "taxPaid": null,
+                "taxIncreaseRate": 0,
+                "value": 16435,
+                "valueIncreaseRate": 0
+            },
+            {
+                "time": 1304696618352,
+                "taxPaid": null,
+                "taxIncreaseRate": 0,
+                "value": 16435,
+                "valueIncreaseRate": 0
+            },
+            {
+                "time": 1273160618352,
+                "taxPaid": null,
+                "taxIncreaseRate": 0,
+                "value": 16435,
+                "valueIncreaseRate": 0
+            },
+            {
+                "time": 1241624618352,
+                "taxPaid": null,
+                "taxIncreaseRate": 0,
+                "value": 16435,
+                "valueIncreaseRate": -0.11516098
+            },
+            {
+                "time": 1210088618352,
+                "taxPaid": null,
+                "taxIncreaseRate": 0,
+                "value": 18574,
+                "valueIncreaseRate": 0.105003275
+            },
+            {
+                "time": 1178466218352,
+                "taxPaid": 581.6,
+                "taxIncreaseRate": -0.022816656,
+                "value": 16809,
+                "valueIncreaseRate": 0
+            },
+            {
+                "time": 1146930218352,
+                "taxPaid": 595.18,
+                "taxIncreaseRate": 0.02338453,
+                "value": 16809,
+                "valueIncreaseRate": 0
+            },
+            {
+                "time": 1115394218352,
+                "taxPaid": 581.58,
+                "taxIncreaseRate": -0.22256978,
+                "value": 16809,
+                "valueIncreaseRate": 0.0690028
+            },
+            {
+                "time": 1083858218352,
+                "taxPaid": 748.08,
+                "taxIncreaseRate": 0.0023045605,
+                "value": 15724,
+                "valueIncreaseRate": 0.048057057
+            },
+            {
+                "time": 1020699818352,
+                "taxPaid": 746.36,
+                "taxIncreaseRate": 1.1964686,
+                "value": 15003,
+                "valueIncreaseRate": 0.20283814
+            },
+            {
+                "time": 989163818352,
+                "taxPaid": 339.8,
+                "taxIncreaseRate": 0.045602735,
+                "value": 12473,
+                "valueIncreaseRate": 0.6319508
+            },
+            {
+                "time": 957627818352,
+                "taxPaid": 324.98,
+                "taxIncreaseRate": 0,
+                "value": 7643,
+                "valueIncreaseRate": 0
+            }
+        ],
+        "Nearby Homes": [],
+        "Comparable Homes": []
+    },
+    {
+        "Zpid": "46977500",
+        "Street_address": "4530 Bayshore Blvd NE",
+        "City": "Saint Petersburg",
+        "State": "FL",
+        "ZipCode": "33703",
+        "Price": null,
+        "Beds": 4,
+        "Baths": 2.0,
+        "Sqr_feet": 1680,
+        "Home_Status": "Pre-foreclosure",
+        "Zestimate": 532900,
+        "RentZestimate": 4082,
+        "Days_on_zillow": 19,
+        "Home_Type": "SINGLE_FAMILY",
+        "Lat_Long": {
+            "latitude": 27.812778,
+            "longitude": -82.59916
+        },
+        "Broker_Name": null,
+        "Event Description": "Welcome home! 4 bedroom, 2 bath, laundry, walk in shower in master and tub in guest bath. The home is across from the water and many multimillion dollar homes. Furnished or unfurnished. New appliances, fenced in completely, close to schools and downtown, heated pool and spa. Most pets welcome. Close to downtown, 6 minutes to groceries and gym. Great street to walk on! Amazing neighborhood!First, last and rent due before moving in. Application process, background check.",
+        "Listing Photos": [
+            "https://photos.zillowstatic.com/fp/a81136774962bb9c6594631a01b3a72d-p_e.jpg",
+            "https://photos.zillowstatic.com/fp/b5bbdc306bafed7dd4d78487c56b2f6d-p_e.jpg",
+            "https://photos.zillowstatic.com/fp/3922887d9c3e4d3907cc8fe26d3fc309-p_e.jpg",
+            "https://photos.zillowstatic.com/fp/d6e70fbbe5d0f114cf35fed0229755af-p_e.jpg",
+            "https://photos.zillowstatic.com/fp/1d3d6f945f26ab782ee68ae4b0f58983-p_e.jpg",
+            "https://photos.zillowstatic.com/fp/75acc975ebef629c61df63f0f07b60f6-p_e.jpg",
+            "https://photos.zillowstatic.com/fp/8db5be15b4250019b10818eb4c69ec92-p_e.jpg",
+            "https://photos.zillowstatic.com/fp/d165149b1aa73ba75d1bbb843351ab68-p_e.jpg",
+            "https://photos.zillowstatic.com/fp/65dc1031ab9bb868c649835a36a752fa-p_e.jpg",
+            "https://photos.zillowstatic.com/fp/e15c38f90a2010417abba6bb371cf143-p_e.jpg",
+            "https://photos.zillowstatic.com/fp/95c3af250a86e55dd69e9c5978ce7c4b-p_e.jpg"
+        ],
+        "Complete_url": "https://www.zillow.com/homedetails/4530-Bayshore-Blvd-NE-Saint-Petersburg-FL-33703/46977500_zpid/",
+        "URL": "https://www.zillow.com/homedetails/4530-Bayshore-Blvd-NE-Saint-Petersburg-FL-33703/46977500_zpid/",
+        "Structure Area": null,
+        "Type": "Single Family Residence",
+        "Year Built": null,
+        "Heating": null,
+        "Cooling": "Central Air",
+        "Parking": "Attached Garage",
+        "HOA": "",
+        "Lot": null,
+        "Price/sqft": "",
+        "Offer Review Date": null,
+        "Foreclosure Details": {
+            "trusteeName": null,
+            "trusteeAddress": null,
+            "trusteePhone": null,
+            "legalDescription": null,
+            "subdivision": "OVERLOOK DRIVE ESTATES",
+            "recordedDocs": [
+                {
+                    "name": "Notice of Lis Pendens",
+                    "number": "2025114942",
+                    "date": 1744873200000
+                }
+            ],
+            "apn": "04-31-17-64917-000-0170",
+            "foreclosureDefaultFilingDate": 1744848000000,
+            "foreclosureAuctionFilingDate": null,
+            "foreclosureLoanDate": null,
+            "foreclosureLoanOriginator": "CITIBANK NA ET AL",
+            "foreclosureLoanAmount": null,
+            "foreclosurePriorSaleDate": 1119484800000,
+            "foreclosurePriorSaleAmount": 315000,
+            "foreclosureBalanceReportingDate": null,
+            "foreclosureDefaultDescription": "Notice of Lis Pendens",
+            "foreclosurePastDueBalance": null,
+            "foreclosureUnpaidBalance": null,
+            "foreclosureAuctionTime": null,
+            "foreclosureAuctionDescription": null,
+            "foreclosureAuctionCity": null,
+            "foreclosureAuctionLocation": null,
+            "foreclosureDate": null,
+            "foreclosureAmount": null,
+            "foreclosingBank": "CITIBANK NA ET AL",
+            "foreclosureJudicialType": "Judicial"
+        },
+        "Agent_name": null,
+        "Agent_phone": null,
+        "Price History": [
+            {
+                "date": "2024-09-10",
+                "price": 5000,
+                "time": 1725926400000,
+                "pricePerSquareFoot": 3,
+                "priceChangeRate": -0.28561223031861693,
+                "event": "Listing removed",
+                "source": "Zillow Rentals",
+                "buyerAgent": null,
+                "sellerAgent": null,
+                "showCountyLink": false,
+                "postingIsRental": true,
+                "attributeSource": {
+                    "infoString1": null,
+                    "infoString2": "Zillow Rentals",
+                    "infoString3": null
+                }
+            },
+            {
+                "date": "2024-05-15",
+                "price": 6999,
+                "time": 1715731200000,
+                "pricePerSquareFoot": 4,
+                "priceChangeRate": -0.0668,
+                "event": "Listed for rent",
+                "source": "Zillow Rentals",
+                "buyerAgent": null,
+                "sellerAgent": null,
+                "showCountyLink": false,
+                "postingIsRental": true,
+                "attributeSource": {
+                    "infoString1": null,
+                    "infoString2": "Zillow Rentals",
+                    "infoString3": null
+                }
+            },
+            {
+                "date": "2024-04-23",
+                "price": null,
+                "time": 1713830400000,
+                "pricePerSquareFoot": null,
+                "priceChangeRate": 0,
+                "event": "Listing removed",
+                "source": "Zillow Rentals",
+                "buyerAgent": null,
+                "sellerAgent": null,
+                "showCountyLink": false,
+                "postingIsRental": true,
+                "attributeSource": {
+                    "infoString1": null,
+                    "infoString2": "Zillow Rentals",
+                    "infoString3": null
+                }
+            },
+            {
+                "date": "2024-04-19",
+                "price": 7500,
+                "time": 1713484800000,
+                "pricePerSquareFoot": 4,
+                "priceChangeRate": 0,
+                "event": "Listed for rent",
+                "source": "Zillow Rentals",
+                "buyerAgent": null,
+                "sellerAgent": null,
+                "showCountyLink": false,
+                "postingIsRental": true,
+                "attributeSource": {
+                    "infoString1": null,
+                    "infoString2": "Zillow Rentals",
+                    "infoString3": null
+                }
+            },
+            {
+                "date": "2024-03-27",
+                "price": null,
+                "time": 1711497600000,
+                "pricePerSquareFoot": null,
+                "priceChangeRate": 0,
+                "event": "Listing removed",
+                "source": "Zillow Rentals",
+                "buyerAgent": null,
+                "sellerAgent": null,
+                "showCountyLink": false,
+                "postingIsRental": true,
+                "attributeSource": {
+                    "infoString1": null,
+                    "infoString2": "Zillow Rentals",
+                    "infoString3": null
+                }
+            },
+            {
+                "date": "2024-03-04",
+                "price": 7500,
+                "time": 1709510400000,
+                "pricePerSquareFoot": 4,
+                "priceChangeRate": 0,
+                "event": "Listed for rent",
+                "source": "Zillow Rentals",
+                "buyerAgent": null,
+                "sellerAgent": null,
+                "showCountyLink": false,
+                "postingIsRental": true,
+                "attributeSource": {
+                    "infoString1": null,
+                    "infoString2": "Zillow Rentals",
+                    "infoString3": null
+                }
+            },
+            {
+                "date": "2024-01-09",
+                "price": null,
+                "time": 1704758400000,
+                "pricePerSquareFoot": null,
+                "priceChangeRate": 0,
+                "event": "Listing removed",
+                "source": "Zillow Rentals",
+                "buyerAgent": null,
+                "sellerAgent": null,
+                "showCountyLink": false,
+                "postingIsRental": true,
+                "attributeSource": {
+                    "infoString1": null,
+                    "infoString2": "Zillow Rentals",
+                    "infoString3": null
+                }
+            },
+            {
+                "date": "2024-01-06",
+                "price": 7500,
+                "time": 1704499200000,
+                "pricePerSquareFoot": 4,
+                "priceChangeRate": 0.364877161055505,
+                "event": "Listed for rent",
+                "source": "Zillow Rentals",
+                "buyerAgent": null,
+                "sellerAgent": null,
+                "showCountyLink": false,
+                "postingIsRental": true,
+                "attributeSource": {
+                    "infoString1": null,
+                    "infoString2": "Zillow Rentals",
+                    "infoString3": null
+                }
+            },
+            {
+                "date": "2024-01-06",
+                "price": null,
+                "time": 1704499200000,
+                "pricePerSquareFoot": null,
+                "priceChangeRate": 0,
+                "event": "Listing removed",
+                "source": "Owner",
+                "buyerAgent": null,
+                "sellerAgent": null,
+                "showCountyLink": false,
+                "postingIsRental": false,
+                "attributeSource": {
+                    "infoString1": null,
+                    "infoString2": "Owner",
+                    "infoString3": null
+                }
+            },
+            {
+                "date": "2023-12-31",
+                "price": 900000,
+                "time": 1703980800000,
+                "pricePerSquareFoot": 536,
+                "priceChangeRate": 1.8571428571428572,
+                "event": "Listed for sale",
+                "source": "Owner",
+                "buyerAgent": null,
+                "sellerAgent": null,
+                "showCountyLink": false,
+                "postingIsRental": false,
+                "attributeSource": {
+                    "infoString1": "",
+                    "infoString2": "Owner",
+                    "infoString3": null
+                }
+            },
+            {
+                "date": "2023-07-18",
+                "price": null,
+                "time": 1689638400000,
+                "pricePerSquareFoot": null,
+                "priceChangeRate": 0,
+                "event": "Listing removed",
+                "source": "Zillow Rentals",
+                "buyerAgent": null,
+                "sellerAgent": null,
+                "showCountyLink": false,
+                "postingIsRental": true,
+                "attributeSource": {
+                    "infoString1": null,
+                    "infoString2": "Zillow Rentals",
+                    "infoString3": null
+                }
+            },
+            {
+                "date": "2023-05-22",
+                "price": 5495,
+                "time": 1684713600000,
+                "pricePerSquareFoot": 3,
+                "priceChangeRate": -0.08340283569641367,
+                "event": "Price change",
+                "source": "Zillow Rentals",
+                "buyerAgent": null,
+                "sellerAgent": null,
+                "showCountyLink": false,
+                "postingIsRental": true,
+                "attributeSource": {
+                    "infoString1": null,
+                    "infoString2": "Zillow Rentals",
+                    "infoString3": null
+                }
+            },
+            {
+                "date": "2023-05-09",
+                "price": 5995,
+                "time": 1683590400000,
+                "pricePerSquareFoot": 4,
+                "priceChangeRate": 0,
+                "event": "Listed for rent",
+                "source": "Zillow Rentals",
+                "buyerAgent": null,
+                "sellerAgent": null,
+                "showCountyLink": false,
+                "postingIsRental": true,
+                "attributeSource": {
+                    "infoString1": null,
+                    "infoString2": "Zillow Rentals",
+                    "infoString3": null
+                }
+            },
+            {
+                "date": "2023-04-25",
+                "price": null,
+                "time": 1682380800000,
+                "pricePerSquareFoot": null,
+                "priceChangeRate": 0,
+                "event": "Listing removed",
+                "source": "Zillow Rentals",
+                "buyerAgent": null,
+                "sellerAgent": null,
+                "showCountyLink": false,
+                "postingIsRental": true,
+                "attributeSource": {
+                    "infoString1": null,
+                    "infoString2": "Zillow Rentals",
+                    "infoString3": null
+                }
+            },
+            {
+                "date": "2023-04-05",
+                "price": 5995,
+                "time": 1680652800000,
+                "pricePerSquareFoot": 4,
+                "priceChangeRate": 0,
+                "event": "Listed for rent",
+                "source": "Zillow Rentals",
+                "buyerAgent": null,
+                "sellerAgent": null,
+                "showCountyLink": false,
+                "postingIsRental": true,
+                "attributeSource": {
+                    "infoString1": null,
+                    "infoString2": "Zillow Rentals",
+                    "infoString3": null
+                }
+            },
+            {
+                "date": "2022-11-12",
+                "price": null,
+                "time": 1668211200000,
+                "pricePerSquareFoot": null,
+                "priceChangeRate": 0,
+                "event": "Listing removed",
+                "source": "Zillow Rental Manager",
+                "buyerAgent": null,
+                "sellerAgent": null,
+                "showCountyLink": false,
+                "postingIsRental": true,
+                "attributeSource": {
+                    "infoString1": null,
+                    "infoString2": "Zillow Rental Manager",
+                    "infoString3": null
+                }
+            },
+            {
+                "date": "2022-10-12",
+                "price": 5995,
+                "time": 1665532800000,
+                "pricePerSquareFoot": 4,
+                "priceChangeRate": -0.4005,
+                "event": "Price change",
+                "source": "Zillow Rental Manager",
+                "buyerAgent": null,
+                "sellerAgent": null,
+                "showCountyLink": false,
+                "postingIsRental": true,
+                "attributeSource": {
+                    "infoString1": "",
+                    "infoString2": "Zillow Rental Manager",
+                    "infoString3": null
+                }
+            },
+            {
+                "date": "2022-09-30",
+                "price": 10000,
+                "time": 1664496000000,
+                "pricePerSquareFoot": 6,
+                "priceChangeRate": -0.3333333333333333,
+                "event": "Price change",
+                "source": "Zillow Rental Manager",
+                "buyerAgent": null,
+                "sellerAgent": null,
+                "showCountyLink": false,
+                "postingIsRental": true,
+                "attributeSource": {
+                    "infoString1": "",
+                    "infoString2": "Zillow Rental Manager",
+                    "infoString3": null
+                }
+            },
+            {
+                "date": "2022-09-24",
+                "price": 15000,
+                "time": 1663977600000,
+                "pricePerSquareFoot": 9,
+                "priceChangeRate": 1.5020850708924103,
+                "event": "Price change",
+                "source": "Zillow Rental Manager",
+                "buyerAgent": null,
+                "sellerAgent": null,
+                "showCountyLink": false,
+                "postingIsRental": true,
+                "attributeSource": {
+                    "infoString1": "",
+                    "infoString2": "Zillow Rental Manager",
+                    "infoString3": null
+                }
+            },
+            {
+                "date": "2022-09-13",
+                "price": 5995,
+                "time": 1663027200000,
+                "pricePerSquareFoot": 4,
+                "priceChangeRate": -0.14295925661186562,
+                "event": "Price change",
+                "source": "Zillow Rental Manager",
+                "buyerAgent": null,
+                "sellerAgent": null,
+                "showCountyLink": false,
+                "postingIsRental": true,
+                "attributeSource": {
+                    "infoString1": "",
+                    "infoString2": "Zillow Rental Manager",
+                    "infoString3": null
+                }
+            },
+            {
+                "date": "2022-08-23",
+                "price": 6995,
+                "time": 1661212800000,
+                "pricePerSquareFoot": 4,
+                "priceChangeRate": 0,
+                "event": "Listed for rent",
+                "source": "Zillow Rental Manager",
+                "buyerAgent": null,
+                "sellerAgent": null,
+                "showCountyLink": false,
+                "postingIsRental": true,
+                "attributeSource": {
+                    "infoString1": "",
+                    "infoString2": "Zillow Rental Manager",
+                    "infoString3": null
+                }
+            },
+            {
+                "date": "2022-08-11",
+                "price": null,
+                "time": 1660176000000,
+                "pricePerSquareFoot": null,
+                "priceChangeRate": 0,
+                "event": "Listing removed",
+                "source": "Zillow Rental Manager",
+                "buyerAgent": null,
+                "sellerAgent": null,
+                "showCountyLink": false,
+                "postingIsRental": true,
+                "attributeSource": {
+                    "infoString1": null,
+                    "infoString2": "Zillow Rental Manager",
+                    "infoString3": null
+                }
+            },
+            {
+                "date": "2022-07-07",
+                "price": 6995,
+                "time": 1657152000000,
+                "pricePerSquareFoot": 4,
+                "priceChangeRate": 0.16680567139282734,
+                "event": "Price change",
+                "source": "Zillow Rental Manager",
+                "buyerAgent": null,
+                "sellerAgent": null,
+                "showCountyLink": false,
+                "postingIsRental": true,
+                "attributeSource": {
+                    "infoString1": "",
+                    "infoString2": "Zillow Rental Manager",
+                    "infoString3": null
+                }
+            },
+            {
+                "date": "2022-06-14",
+                "price": 5995,
+                "time": 1655164800000,
+                "pricePerSquareFoot": 4,
+                "priceChangeRate": 0,
+                "event": "Listed for rent",
+                "source": "Zillow Rental Manager",
+                "buyerAgent": null,
+                "sellerAgent": null,
+                "showCountyLink": false,
+                "postingIsRental": true,
+                "attributeSource": {
+                    "infoString1": "",
+                    "infoString2": "Zillow Rental Manager",
+                    "infoString3": null
+                }
+            },
+            {
+                "date": "2005-06-23",
+                "price": 315000,
+                "time": 1119484800000,
+                "pricePerSquareFoot": 188,
+                "priceChangeRate": 0.8540317834020011,
+                "event": "Sold",
+                "source": "Public Record",
+                "buyerAgent": null,
+                "sellerAgent": null,
+                "showCountyLink": false,
+                "postingIsRental": false,
+                "attributeSource": {
+                    "infoString1": null,
+                    "infoString2": "Public Record",
+                    "infoString3": null
+                }
+            },
+            {
+                "date": "2002-02-06",
+                "price": 169900,
+                "time": 1012953600000,
+                "pricePerSquareFoot": 101,
+                "priceChangeRate": 0.5878504672897197,
+                "event": "Sold",
+                "source": "Public Record",
+                "buyerAgent": null,
+                "sellerAgent": null,
+                "showCountyLink": false,
+                "postingIsRental": false,
+                "attributeSource": {
+                    "infoString1": null,
+                    "infoString2": "Public Record",
+                    "infoString3": null
+                }
+            },
+            {
+                "date": "1998-06-18",
+                "price": 107000,
+                "time": 898128000000,
+                "pricePerSquareFoot": 64,
+                "priceChangeRate": 0,
+                "event": "Sold",
+                "source": "Public Record",
+                "buyerAgent": null,
+                "sellerAgent": null,
+                "showCountyLink": false,
+                "postingIsRental": false,
+                "attributeSource": {
+                    "infoString1": null,
+                    "infoString2": "Public Record",
+                    "infoString3": null
+                }
+            }
+        ],
+        "Tax History": [
+            {
+                "time": 1715010220787,
+                "taxPaid": 4153.7,
+                "taxIncreaseRate": 0.018225966,
+                "value": 255382,
+                "valueIncreaseRate": 0.029998709
+            },
+            {
+                "time": 1683387820787,
+                "taxPaid": 4079.35,
+                "taxIncreaseRate": 0.02763732,
+                "value": 247944,
+                "valueIncreaseRate": 0.030001413
+            },
+            {
+                "time": 1651851820787,
+                "taxPaid": 3969.64,
+                "taxIncreaseRate": -0.012532308,
+                "value": 240722,
+                "valueIncreaseRate": 0.029998587
+            },
+            {
+                "time": 1620315820787,
+                "taxPaid": 4020.02,
+                "taxIncreaseRate": -0.00015666195,
+                "value": 233711,
+                "valueIncreaseRate": 0.014000972
+            },
+            {
+                "time": 1588779820787,
+                "taxPaid": 4020.65,
+                "taxIncreaseRate": 0.019537935,
+                "value": 230484,
+                "valueIncreaseRate": 0.02300024
+            },
+            {
+                "time": 1557157420787,
+                "taxPaid": 3943.6,
+                "taxIncreaseRate": 0,
+                "value": 225302,
+                "valueIncreaseRate": 0.019000366
+            },
+            {
+                "time": 1525621420787,
+                "taxPaid": 3943.6,
+                "taxIncreaseRate": 0.01541824,
+                "value": 221101,
+                "valueIncreaseRate": 0.021001788
+            },
+            {
+                "time": 1494085420787,
+                "taxPaid": 3883.72,
+                "taxIncreaseRate": 0.2976488,
+                "value": 216553,
+                "valueIncreaseRate": 0.23121226
+            },
+            {
+                "time": 1462549420787,
+                "taxPaid": 2992.89,
+                "taxIncreaseRate": -0.013852063,
+                "value": 175886,
+                "valueIncreaseRate": 0.007002055
+            },
+            {
+                "time": 1430927020787,
+                "taxPaid": 3034.93,
+                "taxIncreaseRate": 0.006283182,
+                "value": 174663,
+                "valueIncreaseRate": 0.007998753
+            },
+            {
+                "time": 1399391020787,
+                "taxPaid": 3015.98,
+                "taxIncreaseRate": 0.008270814,
+                "value": 173277,
+                "valueIncreaseRate": 0.015001523
+            },
+            {
+                "time": 1367855020787,
+                "taxPaid": 2991.24,
+                "taxIncreaseRate": 0.02090102,
+                "value": 170716,
+                "valueIncreaseRate": 0.017002061
+            },
+            {
+                "time": 1336319020787,
+                "taxPaid": 2930,
+                "taxIncreaseRate": 0,
+                "value": 167862,
+                "valueIncreaseRate": 0.012491631
+            },
+            {
+                "time": 1304696620787,
+                "taxPaid": null,
+                "taxIncreaseRate": 0,
+                "value": 165791,
+                "valueIncreaseRate": -0.10137944
+            },
+            {
+                "time": 1273160620787,
+                "taxPaid": null,
+                "taxIncreaseRate": 0,
+                "value": 184495,
+                "valueIncreaseRate": -0.14279674
+            },
+            {
+                "time": 1241624620787,
+                "taxPaid": null,
+                "taxIncreaseRate": 0,
+                "value": 215229,
+                "valueIncreaseRate": -0.23650585
+            },
+            {
+                "time": 1210088620787,
+                "taxPaid": 6073.48,
+                "taxIncreaseRate": 0,
+                "value": 281900,
+                "valueIncreaseRate": -0.14523953
+            },
+            {
+                "time": 1178466220787,
+                "taxPaid": null,
+                "taxIncreaseRate": 0,
+                "value": 329800,
+                "valueIncreaseRate": 0.24640967
+            },
+            {
+                "time": 1115394220787,
+                "taxPaid": null,
+                "taxIncreaseRate": 0,
+                "value": 264600,
+                "valueIncreaseRate": 0.110365085
+            },
+            {
+                "time": 1083858220787,
+                "taxPaid": 3872.01,
+                "taxIncreaseRate": 0.01696694,
+                "value": 238300,
+                "valueIncreaseRate": 0.31730238
+            },
+            {
+                "time": 1052235820787,
+                "taxPaid": 3807.41,
+                "taxIncreaseRate": 1.1439084,
+                "value": 180900,
+                "valueIncreaseRate": 0.061619718
+            },
+            {
+                "time": 1020699820787,
+                "taxPaid": 1775.92,
+                "taxIncreaseRate": 0,
+                "value": 170400,
+                "valueIncreaseRate": 0.23837209
+            },
+            {
+                "time": 989163820787,
+                "taxPaid": 1775.92,
+                "taxIncreaseRate": 0.038634777,
+                "value": 137600,
+                "valueIncreaseRate": 0.45608467
+            },
+            {
+                "time": 957627820787,
+                "taxPaid": 1709.86,
+                "taxIncreaseRate": 0,
+                "value": 94500,
+                "valueIncreaseRate": 0
+            }
+        ],
+        "Nearby Homes": [],
+        "Comparable Homes": []
+    },
+    {
+        "Zpid": "43580723",
+        "Street_address": "7227 N Plum Tree",
+        "City": "Punta Gorda",
+        "State": "FL",
+        "ZipCode": "33955",
+        "Price": null,
+        "Beds": 3,
+        "Baths": 2.0,
+        "Sqr_feet": 1714,
+        "Home_Status": "Pre-foreclosure",
+        "Zestimate": 336100,
+        "RentZestimate": 2116,
+        "Days_on_zillow": 13,
+        "Home_Type": "SINGLE_FAMILY",
+        "Lat_Long": {
+            "latitude": 26.874445,
+            "longitude": -82.00986
+        },
+        "Broker_Name": null,
+        "Event Description": "Nice quite neighborhood in Burnt Store Meadows. Close to Walmart, Publix and local restaurants and 7 miles from downtown Punta Gorda. Completely furnished.I am looking for a yearly lease, first last and security will be required. Renter pays water and electricity. No smoking, owner maintains the lawn maintenance.The house is completely furnished, bring your cloths and toothbrush and you're all set.",
+        "Listing Photos": [
+            "https://photos.zillowstatic.com/fp/2aa8c57a0230eaf015b7b5aba7f6bc4d-p_e.jpg",
+            "https://photos.zillowstatic.com/fp/2338806de6806223e9a3104cc37bf448-p_e.jpg",
+            "https://photos.zillowstatic.com/fp/f31b6b47dedabb2938e41dd307b8fd1f-p_e.jpg",
+            "https://photos.zillowstatic.com/fp/369cabc947d09e2baa85cf205d0c8843-p_e.jpg",
+            "https://photos.zillowstatic.com/fp/38557dac72c7acf03deea023ea7d7ebf-p_e.jpg",
+            "https://photos.zillowstatic.com/fp/2f2ff909f8e4d4728a7b889e33544ce9-p_e.jpg",
+            "https://photos.zillowstatic.com/fp/5a9ffad492ecac6ceadb42cb03cc169a-p_e.jpg",
+            "https://photos.zillowstatic.com/fp/764113d7794465c8ecacd146ea84a7f4-p_e.jpg",
+            "https://photos.zillowstatic.com/fp/ae5c627b8c525c419634b310f98d7480-p_e.jpg",
+            "https://photos.zillowstatic.com/fp/5c5dcfc39d5202bec8238a7e3afc7414-p_e.jpg",
+            "https://photos.zillowstatic.com/fp/7ad5c126b07f10436017ffd291a54269-p_e.jpg",
+            "https://photos.zillowstatic.com/fp/095ffa5dd9dc529577d3f5f5563d177c-p_e.jpg",
+            "https://photos.zillowstatic.com/fp/b8fdda7f0825b69f8b5a982b34d99939-p_e.jpg",
+            "https://photos.zillowstatic.com/fp/55ee294233ac9f45356b9ac3364e268a-p_e.jpg",
+            "https://photos.zillowstatic.com/fp/c79c6640874190054aaa881f96411127-p_e.jpg",
+            "https://photos.zillowstatic.com/fp/362561949da1312f3875cf0711f3edd7-p_e.jpg",
+            "https://photos.zillowstatic.com/fp/664d4dca247a82404e5ebcff7d76d405-p_e.jpg",
+            "https://photos.zillowstatic.com/fp/b4f3423cc9b6fca01594350d6536f999-p_e.jpg",
+            "https://photos.zillowstatic.com/fp/4b4c9a6c6246b2628a0ef401eeb86f99-p_e.jpg",
+            "https://photos.zillowstatic.com/fp/7926f54aee0060bfa7328e73865164e8-p_e.jpg",
+            "https://photos.zillowstatic.com/fp/a63e464679b6bfca43e6e9e4e9d03d0f-p_e.jpg",
+            "https://photos.zillowstatic.com/fp/848455e240ae9d5adc0ccbd8db32d3b4-p_e.jpg",
+            "https://photos.zillowstatic.com/fp/763a13086fc93cc49bbc5eeee81a31b4-p_e.jpg",
+            "https://photos.zillowstatic.com/fp/8a32f7e7a05a147413dc350c103fbfef-p_e.jpg",
+            "https://photos.zillowstatic.com/fp/5fa875edaf956a5e4f0ebb58aec612ce-p_e.jpg",
+            "https://photos.zillowstatic.com/fp/c22ca23a77e0bd00b2f7c0b5e08674fd-p_e.jpg",
+            "https://photos.zillowstatic.com/fp/d012287b238d2284ad50691b0fbd7abf-p_e.jpg",
+            "https://photos.zillowstatic.com/fp/07108181b56ef5b5a4d83f93bcd1e6da-p_e.jpg",
+            "https://photos.zillowstatic.com/fp/0560de6f2fa24dab8b0dab7de3601434-p_e.jpg",
+            "https://photos.zillowstatic.com/fp/83907f9c51bb9b936e481c5d4b50167c-p_e.jpg",
+            "https://photos.zillowstatic.com/fp/7ce6f725e1d24d3f66c749f29f5f4b42-p_e.jpg",
+            "https://photos.zillowstatic.com/fp/370c484a8f61dbf8a6a42c3291eda40a-p_e.jpg",
+            "https://photos.zillowstatic.com/fp/a52abb1f14da226afd29917706313570-p_e.jpg",
+            "https://photos.zillowstatic.com/fp/04105ff66dab3da37d9f17a4a6f465a2-p_e.jpg",
+            "https://photos.zillowstatic.com/fp/c95758c032593aa8d366c63d9e961d88-p_e.jpg",
+            "https://photos.zillowstatic.com/fp/25b0d5de4d93549f1293ece0d11fdc81-p_e.jpg",
+            "https://photos.zillowstatic.com/fp/03d93b680dd01737912eeb8f242de52b-p_e.jpg",
+            "https://photos.zillowstatic.com/fp/14efa61bc7f2ff06ffc7bdcb22cfdc7c-p_e.jpg",
+            "https://photos.zillowstatic.com/fp/29f684ff2a2e93ad1cafa8c3976165c8-p_e.jpg"
+        ],
+        "Complete_url": "https://www.zillow.com/homedetails/7227-N-Plum-Tree-Punta-Gorda-FL-33955/43580723_zpid/",
+        "URL": "https://www.zillow.com/homedetails/7227-N-Plum-Tree-Punta-Gorda-FL-33955/43580723_zpid/",
+        "Structure Area": null,
+        "Type": "SingleFamily",
+        "Year Built": "2002",
+        "Heating": "Forced air",
+        "Cooling": "Other",
+        "Parking": "Garage - Detached",
+        "HOA": "$18 monthly",
+        "Lot": "9,648 sqft",
+        "Price/sqft": "",
+        "Offer Review Date": null,
+        "Foreclosure Details": {
+            "trusteeName": null,
+            "trusteeAddress": null,
+            "trusteePhone": null,
+            "legalDescription": null,
+            "subdivision": "PUNTA GORDA ISLES",
+            "recordedDocs": [
+                {
+                    "name": "Notice of Lis Pendens",
+                    "number": "3519389",
+                    "date": 1745391600000
+                }
+            ],
+            "apn": "412328479004",
+            "foreclosureDefaultFilingDate": 1745366400000,
+            "foreclosureAuctionFilingDate": null,
+            "foreclosureLoanDate": null,
+            "foreclosureLoanOriginator": "REGIONS BANK DBA REGIONS MORTGAGE",
+            "foreclosureLoanAmount": null,
+            "foreclosurePriorSaleDate": 1015286400000,
+            "foreclosurePriorSaleAmount": 900,
+            "foreclosureBalanceReportingDate": null,
+            "foreclosureDefaultDescription": "Notice of Lis Pendens",
+            "foreclosurePastDueBalance": null,
+            "foreclosureUnpaidBalance": null,
+            "foreclosureAuctionTime": null,
+            "foreclosureAuctionDescription": null,
+            "foreclosureAuctionCity": null,
+            "foreclosureAuctionLocation": null,
+            "foreclosureDate": null,
+            "foreclosureAmount": null,
+            "foreclosingBank": "REGIONS BANK DBA REGIONS MORTGAGE",
+            "foreclosureJudicialType": "Judicial"
+        },
+        "Agent_name": null,
+        "Agent_phone": null,
+        "Price History": [
+            {
+                "date": "2023-02-16",
+                "price": null,
+                "time": 1676505600000,
+                "pricePerSquareFoot": null,
+                "priceChangeRate": 0,
+                "event": "Listing removed",
+                "source": "Zillow Rentals",
+                "buyerAgent": null,
+                "sellerAgent": null,
+                "showCountyLink": false,
+                "postingIsRental": true,
+                "attributeSource": {
+                    "infoString1": null,
+                    "infoString2": "Zillow Rentals",
+                    "infoString3": null
+                }
+            },
+            {
+                "date": "2023-01-19",
+                "price": 3000,
+                "time": 1674086400000,
+                "pricePerSquareFoot": 2,
+                "priceChangeRate": 0.2,
+                "event": "Price change",
+                "source": "Zillow Rentals",
+                "buyerAgent": null,
+                "sellerAgent": null,
+                "showCountyLink": false,
+                "postingIsRental": true,
+                "attributeSource": {
+                    "infoString1": null,
+                    "infoString2": "Zillow Rentals",
+                    "infoString3": null
+                }
+            },
+            {
+                "date": "2023-01-16",
+                "price": 2500,
+                "time": 1673827200000,
+                "pricePerSquareFoot": 1,
+                "priceChangeRate": -0.375,
+                "event": "Price change",
+                "source": "Zillow Rentals",
+                "buyerAgent": null,
+                "sellerAgent": null,
+                "showCountyLink": false,
+                "postingIsRental": true,
+                "attributeSource": {
+                    "infoString1": null,
+                    "infoString2": "Zillow Rentals",
+                    "infoString3": null
+                }
+            },
+            {
+                "date": "2023-01-13",
+                "price": 4000,
+                "time": 1673568000000,
+                "pricePerSquareFoot": 2,
+                "priceChangeRate": 0.14285714285714285,
+                "event": "Price change",
+                "source": "Zillow Rentals",
+                "buyerAgent": null,
+                "sellerAgent": null,
+                "showCountyLink": false,
+                "postingIsRental": true,
+                "attributeSource": {
+                    "infoString1": null,
+                    "infoString2": "Zillow Rentals",
+                    "infoString3": null
+                }
+            },
+            {
+                "date": "2022-12-01",
+                "price": 3500,
+                "time": 1669852800000,
+                "pricePerSquareFoot": 2,
+                "priceChangeRate": -0.125,
+                "event": "Price change",
+                "source": "Zillow Rental Manager",
+                "buyerAgent": null,
+                "sellerAgent": null,
+                "showCountyLink": false,
+                "postingIsRental": true,
+                "attributeSource": {
+                    "infoString1": "",
+                    "infoString2": "Zillow Rental Manager",
+                    "infoString3": null
+                }
+            },
+            {
+                "date": "2022-11-18",
+                "price": 4000,
+                "time": 1668729600000,
+                "pricePerSquareFoot": 2,
+                "priceChangeRate": 0,
+                "event": "Listed for rent",
+                "source": "Zillow Rental Manager",
+                "buyerAgent": null,
+                "sellerAgent": null,
+                "showCountyLink": false,
+                "postingIsRental": true,
+                "attributeSource": {
+                    "infoString1": "",
+                    "infoString2": "Zillow Rental Manager",
+                    "infoString3": null
+                }
+            },
+            {
+                "date": "2018-04-23",
+                "price": 240000,
+                "time": 1524441600000,
+                "pricePerSquareFoot": 140,
+                "priceChangeRate": 0,
+                "event": "Listing removed",
+                "source": "ALLISON JAMES ESTATES & HOMES",
+                "buyerAgent": null,
+                "sellerAgent": null,
+                "showCountyLink": false,
+                "postingIsRental": false,
+                "attributeSource": {
+                    "infoString1": "C7251396",
+                    "infoString2": "ALLISON JAMES ESTATES & HOMES",
+                    "infoString3": null
+                }
+            },
+            {
+                "date": "2018-04-05",
+                "price": 240000,
+                "time": 1522886400000,
+                "pricePerSquareFoot": 140,
+                "priceChangeRate": 265.6666666666667,
+                "event": "Listed for sale",
+                "source": "ALLISON JAMES ESTATES & HOMES",
+                "buyerAgent": null,
+                "sellerAgent": null,
+                "showCountyLink": false,
+                "postingIsRental": false,
+                "attributeSource": {
+                    "infoString1": "C7251396",
+                    "infoString2": "ALLISON JAMES ESTATES & HOMES",
+                    "infoString3": null
+                }
+            },
+            {
+                "date": "2002-03-05",
+                "price": 900,
+                "time": 1015286400000,
+                "pricePerSquareFoot": 1,
+                "priceChangeRate": 0,
+                "event": "Sold",
+                "source": "Public Record",
+                "buyerAgent": null,
+                "sellerAgent": null,
+                "showCountyLink": false,
+                "postingIsRental": false,
+                "attributeSource": {
+                    "infoString1": null,
+                    "infoString2": "Public Record",
+                    "infoString3": null
+                }
+            }
+        ],
+        "Tax History": [
+            {
+                "time": 1715010223430,
+                "taxPaid": 1619,
+                "taxIncreaseRate": 0.024631692,
+                "value": 137252,
+                "valueIncreaseRate": -0.6040572
+            },
+            {
+                "time": 1683387823430,
+                "taxPaid": 1580.08,
+                "taxIncreaseRate": 0.03669582,
+                "value": 346646,
+                "valueIncreaseRate": 1.6794308
+            },
+            {
+                "time": 1651851823430,
+                "taxPaid": 1524.15,
+                "taxIncreaseRate": 0.015145756,
+                "value": 129373,
+                "valueIncreaseRate": 0.029998805
+            },
+            {
+                "time": 1620315823430,
+                "taxPaid": 1501.41,
+                "taxIncreaseRate": 0.03987289,
+                "value": 125605,
+                "valueIncreaseRate": 0.013998434
+            },
+            {
+                "time": 1588779823430,
+                "taxPaid": 1443.84,
+                "taxIncreaseRate": 0.020410474,
+                "value": 123871,
+                "valueIncreaseRate": 0.023000183
+            },
+            {
+                "time": 1557157423430,
+                "taxPaid": 1414.96,
+                "taxIncreaseRate": 0.10016013,
+                "value": 121086,
+                "valueIncreaseRate": 0.019002255
+            },
+            {
+                "time": 1525621423430,
+                "taxPaid": 1286.14,
+                "taxIncreaseRate": 0,
+                "value": 118828,
+                "valueIncreaseRate": 0.02099945
+            },
+            {
+                "time": 1494085423430,
+                "taxPaid": 1286.14,
+                "taxIncreaseRate": 0.0127565665,
+                "value": 116384,
+                "valueIncreaseRate": 0.021001842
+            },
+            {
+                "time": 1462549423430,
+                "taxPaid": 1269.94,
+                "taxIncreaseRate": 0.0073052603,
+                "value": 113990,
+                "valueIncreaseRate": 0.00699659
+            },
+            {
+                "time": 1430927023430,
+                "taxPaid": 1260.73,
+                "taxIncreaseRate": -0.009949775,
+                "value": 113198,
+                "valueIncreaseRate": 0.007996438
+            },
+            {
+                "time": 1399391023430,
+                "taxPaid": 1273.4,
+                "taxIncreaseRate": 0.008362151,
+                "value": 112300,
+                "valueIncreaseRate": 0.032254506
+            },
+            {
+                "time": 1367855023430,
+                "taxPaid": 1262.84,
+                "taxIncreaseRate": 0.030990759,
+                "value": 108791,
+                "valueIncreaseRate": 0.03000322
+            },
+            {
+                "time": 1336319023430,
+                "taxPaid": 1224.88,
+                "taxIncreaseRate": 0.08465569,
+                "value": 105622,
+                "valueIncreaseRate": 0
+            },
+            {
+                "time": 1304696623430,
+                "taxPaid": 1129.28,
+                "taxIncreaseRate": -0.009081873,
+                "value": 105622,
+                "valueIncreaseRate": 0.015000816
+            },
+            {
+                "time": 1273160623430,
+                "taxPaid": 1139.63,
+                "taxIncreaseRate": -0.062156446,
+                "value": 104061,
+                "valueIncreaseRate": -0.07268061
+            },
+            {
+                "time": 1241624623430,
+                "taxPaid": 1215.16,
+                "taxIncreaseRate": 0,
+                "value": 112217,
+                "valueIncreaseRate": -0.11352577
+            },
+            {
+                "time": 1178466223430,
+                "taxPaid": null,
+                "taxIncreaseRate": 0,
+                "value": 126588,
+                "valueIncreaseRate": 0
+            },
+            {
+                "time": 1146930223430,
+                "taxPaid": null,
+                "taxIncreaseRate": 0,
+                "value": 126588,
+                "valueIncreaseRate": 0.060902942
+            },
+            {
+                "time": 1115394223430,
+                "taxPaid": null,
+                "taxIncreaseRate": 0,
+                "value": 119321,
+                "valueIncreaseRate": 0.019001503
+            },
+            {
+                "time": 1083858223430,
+                "taxPaid": null,
+                "taxIncreaseRate": 0,
+                "value": 117096,
+                "valueIncreaseRate": 0
+            },
+            {
+                "time": 1052235823430,
+                "taxPaid": null,
+                "taxIncreaseRate": 0,
+                "value": 117096,
+                "valueIncreaseRate": 0
+            }
+        ],
+        "Nearby Homes": [
+            {
+                "zpid": 43580722,
+                "miniCardPhotos": [
+                    {
+                        "url": "https://photos.zillowstatic.com/fp/88910cc73e6012c33d9bcc1acf8ac4be-p_c.jpg"
+                    }
+                ],
+                "price": 299000,
+                "currency": "USD",
+                "bedrooms": 3,
+                "bathrooms": 2,
+                "livingArea": 1720,
+                "livingAreaValue": 1720,
+                "livingAreaUnits": "Square Feet",
+                "livingAreaUnitsShort": "sqft",
+                "listingMetadata": {
+                    "comminglingCategoryIsRulesApplicable": false
+                },
+                "lotSize": 9648,
+                "lotAreaValue": 9648,
+                "lotAreaUnits": "Square Feet",
+                "address": {
+                    "streetAddress": "7233 N Plum Tree",
+                    "city": "Punta Gorda",
+                    "state": "FL",
+                    "zipcode": "33955"
+                },
+                "parentRegion": null,
+                "formattedChip": {
+                    "location": [
+                        {
+                            "fullValue": "7233 N Plum Tree"
+                        },
+                        {
+                            "fullValue": null
+                        }
+                    ]
+                },
+                "latitude": 26.874292,
+                "longitude": -82.009674,
+                "homeStatus": "RECENTLY_SOLD",
+                "homeType": "SINGLE_FAMILY",
+                "hdpUrl": "/homedetails/7233-N-Plum-Tree-Punta-Gorda-FL-33955/43580722_zpid/",
+                "hdpTypeDimension": "RecentlySold",
+                "propertyTypeDimension": "Single Family",
+                "listingTypeDimension": "Unknown Listed By",
+                "listing_sub_type": {
+                    "is_newHome": false,
+                    "is_forAuction": false,
+                    "is_bankOwned": false,
+                    "is_foreclosure": false,
+                    "is_FSBO": false,
+                    "is_comingSoon": false,
+                    "is_FSBA": false
+                },
+                "providerListingID": null,
+                "attributionInfo": {
+                    "mlsId": "C7504167",
+                    "mlsName": null,
+                    "providerLogo": null,
+                    "agentName": null,
+                    "agentPhoneNumber": null,
+                    "brokerName": null,
+                    "brokerPhoneNumber": null,
+                    "trueStatus": null
+                },
+                "isShowcaseListing": false,
+                "isPremierBuilder": false,
+                "state": "FL",
+                "newConstructionType": null
+            }
+        ],
+        "Comparable Homes": []
+    },
+    {
+        "Zpid": "68558480",
+        "Street_address": "1836 Portello Way",
+        "City": "Lincoln",
+        "State": "CA",
+        "ZipCode": "95648",
+        "Price": null,
+        "Beds": 3,
+        "Baths": 2.0,
+        "Sqr_feet": 1919,
+        "Home_Status": "Pre-foreclosure",
+        "Zestimate": null,
+        "RentZestimate": 2691,
+        "Days_on_zillow": 14,
+        "Home_Type": "SINGLE_FAMILY",
+        "Lat_Long": {
+            "latitude": 38.87908,
+            "longitude": -121.318886
+        },
+        "Broker_Name": null,
+        "Event Description": "Discover your next home in this beautiful 3-bedroom, 2-bathroom rental spanning 1,919 sqft, perfect for modern living. The open-concept layout offers a spacious living area that flows effortlessly into a large kitchen, complete with granite countertopsideal for cooking and entertaining. Cozy up by the fireplace, adding warmth and character to your living space.The expansive master suite serves as your private retreat, featuring a luxurious bathroom with a soaking tub and separate shower.With a separate laundry room, household tasks become easy and efficient. The low-maintenance front and back yards offer plenty of outdoor space for relaxation and enjoyment, without the burden of extensive upkeep.This home combines comfort, style, and practicality, making it the perfect rental for your needs. Don't miss out on the opportunity to make this exceptional property your next home!",
+        "Listing Photos": [
+            "https://photos.zillowstatic.com/fp/82700da0872769e9ca040e2479bebbb3-p_e.jpg",
+            "https://photos.zillowstatic.com/fp/c5c308f179a26374e7860819af89b960-p_e.jpg",
+            "https://photos.zillowstatic.com/fp/f38f00337477bbe167ce2762f8628092-p_e.jpg",
+            "https://photos.zillowstatic.com/fp/19b586283d381fd724c8d8a6faa64d99-p_e.jpg",
+            "https://photos.zillowstatic.com/fp/da9c4b8fd065bcfa513f96a4f37dedc0-p_e.jpg",
+            "https://photos.zillowstatic.com/fp/7df9d81a85a0523e823f9dde1127800c-p_e.jpg",
+            "https://photos.zillowstatic.com/fp/3382095e4b27cebedfbd5cf82c1a899d-p_e.jpg",
+            "https://photos.zillowstatic.com/fp/8939cce331055a1f6192a7fa6668aeab-p_e.jpg",
+            "https://photos.zillowstatic.com/fp/90773a579f756038fe0274e7319ed389-p_e.jpg",
+            "https://photos.zillowstatic.com/fp/55e688b13904af0cb545afbf88f4b1b1-p_e.jpg",
+            "https://photos.zillowstatic.com/fp/ef0515293304aa21d53a04e33b949b3d-p_e.jpg",
+            "https://photos.zillowstatic.com/fp/794950a0dbda04dc9d31ae2658f9f3d0-p_e.jpg",
+            "https://photos.zillowstatic.com/fp/7ea6a82f0d303919c364c120d15f149a-p_e.jpg",
+            "https://photos.zillowstatic.com/fp/777e39ca100ca67ff79b1b61d7566b62-p_e.jpg",
+            "https://photos.zillowstatic.com/fp/00b28ad86d9c98d6f6f5bd4f33923898-p_e.jpg",
+            "https://photos.zillowstatic.com/fp/ef801d8ccd7d9589c86fcb62f15042a0-p_e.jpg",
+            "https://photos.zillowstatic.com/fp/a990df35c4ea09b08523ae7231e93fca-p_e.jpg",
+            "https://photos.zillowstatic.com/fp/46e3532e2aa4aac24b516cc1e5373b2d-p_e.jpg",
+            "https://photos.zillowstatic.com/fp/9a01457024c6f73e253ecbb87e2c457f-p_e.jpg",
+            "https://photos.zillowstatic.com/fp/46cb8a3e1981026b4ee387a4aa176e83-p_e.jpg",
+            "https://photos.zillowstatic.com/fp/b63977cf0ba6e4831f71e161d2a69728-p_e.jpg",
+            "https://photos.zillowstatic.com/fp/485a7677f056c9d67b75d1d85c98f7ec-p_e.jpg",
+            "https://photos.zillowstatic.com/fp/f7dc69a0b44f040fe7a40be3a66e4e17-p_e.jpg",
+            "https://photos.zillowstatic.com/fp/ab8ebf3550b70176e4838d35a200c325-p_e.jpg",
+            "https://photos.zillowstatic.com/fp/0dac72a19995cb88a61f0ca39e3a3351-p_e.jpg",
+            "https://photos.zillowstatic.com/fp/9b823ad2c5d011a2a4711fe5cff7b02b-p_e.jpg",
+            "https://photos.zillowstatic.com/fp/f1557e0bca4b0c5d9a16570e58738b39-p_e.jpg",
+            "https://photos.zillowstatic.com/fp/5375504af5df9ce2d5e77d3bac3ee68a-p_e.jpg",
+            "https://photos.zillowstatic.com/fp/819c2e234545d5c286ee16f9ba2a5ce1-p_e.jpg",
+            "https://photos.zillowstatic.com/fp/3a0f41e167f9932d5f35d38ff5c8f06a-p_e.jpg",
+            "https://photos.zillowstatic.com/fp/d712ad06d801587f005cda38f73d0cc8-p_e.jpg",
+            "https://photos.zillowstatic.com/fp/b15a31b77c53521c168338a1e698fc06-p_e.jpg",
+            "https://photos.zillowstatic.com/fp/fc359a15704ce710a79c7ab74c124003-p_e.jpg",
+            "https://photos.zillowstatic.com/fp/305d72fc281c7a9d86d4f6d1edcbe463-p_e.jpg"
+        ],
+        "Complete_url": "https://www.zillow.com/homedetails/1836-Portello-Way-Lincoln-CA-95648/68558480_zpid/",
+        "URL": "https://www.zillow.com/homedetails/1836-Portello-Way-Lincoln-CA-95648/68558480_zpid/",
+        "Structure Area": null,
+        "Type": "Single Family Residence",
+        "Year Built": null,
+        "Heating": null,
+        "Cooling": null,
+        "Parking": "No Data",
+        "HOA": "",
+        "Lot": null,
+        "Price/sqft": "",
+        "Offer Review Date": null,
+        "Foreclosure Details": {
+            "trusteeName": null,
+            "trusteeAddress": null,
+            "trusteePhone": null,
+            "legalDescription": null,
+            "subdivision": null,
+            "recordedDocs": [
+                {
+                    "name": "Notice of Default",
+                    "number": "2025-0021469",
+                    "date": 1745305200000
+                }
+            ],
+            "apn": "009-230-016-000",
+            "foreclosureDefaultFilingDate": 1745280000000,
+            "foreclosureAuctionFilingDate": null,
+            "foreclosureLoanDate": 1172102400000,
+            "foreclosureLoanOriginator": "WILMINGTON SAVINGS FUND SOCIETY FSB",
+            "foreclosureLoanAmount": 300420,
+            "foreclosurePriorSaleDate": 1172102400000,
+            "foreclosurePriorSaleAmount": 376000,
+            "foreclosureBalanceReportingDate": 1745193600000,
+            "foreclosureDefaultDescription": "Notice of Default",
+            "foreclosurePastDueBalance": 10138,
+            "foreclosureUnpaidBalance": null,
+            "foreclosureAuctionTime": null,
+            "foreclosureAuctionDescription": null,
+            "foreclosureAuctionCity": null,
+            "foreclosureAuctionLocation": null,
+            "foreclosureDate": null,
+            "foreclosureAmount": null,
+            "foreclosingBank": "WILMINGTON SAVINGS FUND SOCIETY FSB",
+            "foreclosureJudicialType": "Non-Judicial"
+        },
+        "Agent_name": null,
+        "Agent_phone": null,
+        "Price History": [
+            {
+                "date": "2024-08-23",
+                "price": 2895,
+                "time": 1724371200000,
+                "pricePerSquareFoot": 2,
+                "priceChangeRate": 0,
+                "event": "Listing removed",
+                "source": "Zillow Rentals",
+                "buyerAgent": null,
+                "sellerAgent": null,
+                "showCountyLink": false,
+                "postingIsRental": true,
+                "attributeSource": {
+                    "infoString1": null,
+                    "infoString2": "Zillow Rentals",
+                    "infoString3": null
+                }
+            },
+            {
+                "date": "2024-08-09",
+                "price": 2895,
+                "time": 1723161600000,
+                "pricePerSquareFoot": 2,
+                "priceChangeRate": 0,
+                "event": "Listed for rent",
+                "source": "Zillow Rentals",
+                "buyerAgent": null,
+                "sellerAgent": null,
+                "showCountyLink": false,
+                "postingIsRental": true,
+                "attributeSource": {
+                    "infoString1": null,
+                    "infoString2": "Zillow Rentals",
+                    "infoString3": null
+                }
+            },
+            {
+                "date": "2024-01-04",
+                "price": 198690,
+                "time": 1704326400000,
+                "pricePerSquareFoot": 104,
+                "priceChangeRate": -0.4764426877470356,
+                "event": "Sold",
+                "source": "Public Record",
+                "buyerAgent": null,
+                "sellerAgent": null,
+                "showCountyLink": false,
+                "postingIsRental": false,
+                "attributeSource": {
+                    "infoString1": null,
+                    "infoString2": "Public Record",
+                    "infoString3": null
+                }
+            },
+            {
+                "date": "2017-07-26",
+                "price": 379500,
+                "time": 1501027200000,
+                "pricePerSquareFoot": 198,
+                "priceChangeRate": 0,
+                "event": "Listing removed",
+                "source": "Frank Valente Real Estate",
+                "buyerAgent": null,
+                "sellerAgent": null,
+                "showCountyLink": false,
+                "postingIsRental": false,
+                "attributeSource": {
+                    "infoString1": "17027971",
+                    "infoString2": "Frank Valente Real Estate",
+                    "infoString3": null
+                }
+            },
+            {
+                "date": "2017-06-29",
+                "price": 379500,
+                "time": 1498694400000,
+                "pricePerSquareFoot": 198,
+                "priceChangeRate": 0,
+                "event": "Pending sale",
+                "source": "Frank Valente Real Estate",
+                "buyerAgent": null,
+                "sellerAgent": null,
+                "showCountyLink": false,
+                "postingIsRental": false,
+                "attributeSource": {
+                    "infoString1": "17027971",
+                    "infoString2": "Frank Valente Real Estate",
+                    "infoString3": null
+                }
+            },
+            {
+                "date": "2017-06-23",
+                "price": 379500,
+                "time": 1498176000000,
+                "pricePerSquareFoot": 198,
+                "priceChangeRate": -0.025673940949935817,
+                "event": "Price change",
+                "source": "Frank Valente Real Estate",
+                "buyerAgent": null,
+                "sellerAgent": null,
+                "showCountyLink": false,
+                "postingIsRental": false,
+                "attributeSource": {
+                    "infoString1": "17027971",
+                    "infoString2": "Frank Valente Real Estate",
+                    "infoString3": null
+                }
+            },
+            {
+                "date": "2017-05-13",
+                "price": 389500,
+                "time": 1494633600000,
+                "pricePerSquareFoot": 203,
+                "priceChangeRate": 0.03590425531914894,
+                "event": "Listed for sale",
+                "source": "Frank Valente Real Estate",
+                "buyerAgent": null,
+                "sellerAgent": null,
+                "showCountyLink": false,
+                "postingIsRental": false,
+                "attributeSource": {
+                    "infoString1": "17027971",
+                    "infoString2": "Frank Valente Real Estate",
+                    "infoString3": null
+                }
+            },
+            {
+                "date": "2007-02-22",
+                "price": 376000,
+                "time": 1172102400000,
+                "pricePerSquareFoot": 196,
+                "priceChangeRate": 0,
+                "event": "Sold",
+                "source": "Public Record",
+                "buyerAgent": null,
+                "sellerAgent": null,
+                "showCountyLink": false,
+                "postingIsRental": false,
+                "attributeSource": {
+                    "infoString1": null,
+                    "infoString2": "Public Record",
+                    "infoString3": null
+                }
+            }
+        ],
+        "Tax History": [
+            {
+                "time": 1715010225364,
+                "taxPaid": 6546.62,
+                "taxIncreaseRate": 0.012662551,
+                "value": 493241,
+                "valueIncreaseRate": 0.019999173
+            },
+            {
+                "time": 1683387825364,
+                "taxPaid": 6464.76,
+                "taxIncreaseRate": 0.016037095,
+                "value": 483570,
+                "valueIncreaseRate": 0.019998355
+            },
+            {
+                "time": 1651851825364,
+                "taxPaid": 6362.72,
+                "taxIncreaseRate": 0.033432573,
+                "value": 474089,
+                "valueIncreaseRate": 0.03739387
+            },
+            {
+                "time": 1620315825364,
+                "taxPaid": 6156.88,
+                "taxIncreaseRate": 0.09597872,
+                "value": 457000,
+                "valueIncreaseRate": 0.12839507
+            },
+            {
+                "time": 1588779825364,
+                "taxPaid": 5617.7,
+                "taxIncreaseRate": 0,
+                "value": 405000,
+                "valueIncreaseRate": 0.0125
+            },
+            {
+                "time": 1557157425364,
+                "taxPaid": 5617.7,
+                "taxIncreaseRate": 0.0027202754,
+                "value": 400000,
+                "valueIncreaseRate": -0.02676399
+            },
+            {
+                "time": 1525621425364,
+                "taxPaid": 5602.46,
+                "taxIncreaseRate": 0.10407226,
+                "value": 411000,
+                "valueIncreaseRate": 0.11989101
+            },
+            {
+                "time": 1494085425364,
+                "taxPaid": 5074.36,
+                "taxIncreaseRate": 0.03818542,
+                "value": 367000,
+                "valueIncreaseRate": 0.042613637
+            },
+            {
+                "time": 1462549425364,
+                "taxPaid": 4887.72,
+                "taxIncreaseRate": 0.06665687,
+                "value": 352000,
+                "valueIncreaseRate": 0.0797546
+            },
+            {
+                "time": 1430927025364,
+                "taxPaid": 4582.28,
+                "taxIncreaseRate": 0.07198361,
+                "value": 326000,
+                "valueIncreaseRate": 0.09030101
+            },
+            {
+                "time": 1399391025364,
+                "taxPaid": 4274.58,
+                "taxIncreaseRate": 0,
+                "value": 299000,
+                "valueIncreaseRate": 0.3114035
+            },
+            {
+                "time": 1367855025364,
+                "taxPaid": null,
+                "taxIncreaseRate": 0,
+                "value": 228000,
+                "valueIncreaseRate": 0.15151516
+            },
+            {
+                "time": 1336319025364,
+                "taxPaid": null,
+                "taxIncreaseRate": 0,
+                "value": 198000,
+                "valueIncreaseRate": -0.12
+            },
+            {
+                "time": 1304696625364,
+                "taxPaid": null,
+                "taxIncreaseRate": 0,
+                "value": 225000,
+                "valueIncreaseRate": -0.04675558
+            },
+            {
+                "time": 1273160625364,
+                "taxPaid": null,
+                "taxIncreaseRate": 0,
+                "value": 236036,
+                "valueIncreaseRate": -0.13380331
+            },
+            {
+                "time": 1241624625364,
+                "taxPaid": null,
+                "taxIncreaseRate": 0,
+                "value": 272497,
+                "valueIncreaseRate": -0.18857199
+            },
+            {
+                "time": 1210088625364,
+                "taxPaid": null,
+                "taxIncreaseRate": 0,
+                "value": 335824,
+                "valueIncreaseRate": 4.238247
+            },
+            {
+                "time": 1178466225364,
+                "taxPaid": null,
+                "taxIncreaseRate": 0,
+                "value": 64110,
+                "valueIncreaseRate": 0.019999046
+            },
+            {
+                "time": 1146930225364,
+                "taxPaid": null,
+                "taxIncreaseRate": 0,
+                "value": 62853,
+                "valueIncreaseRate": 0
+            }
+        ],
+        "Nearby Homes": [],
+        "Comparable Homes": []
+    },
+    {
+        "Zpid": "17647191",
+        "Street_address": "136 Buena Vista St",
+        "City": "Auburn",
+        "State": "CA",
+        "ZipCode": "95603",
+        "Price": null,
+        "Beds": 3,
+        "Baths": 2.0,
+        "Sqr_feet": 1750,
+        "Home_Status": "Pre-foreclosure",
+        "Zestimate": 507200,
+        "RentZestimate": 2777,
+        "Days_on_zillow": 13,
+        "Home_Type": "SINGLE_FAMILY",
+        "Lat_Long": {
+            "latitude": 38.897026,
+            "longitude": -121.08247
+        },
+        "Broker_Name": null,
+        "Event Description": "This 1750 square foot single family home has 3 bedrooms and 2.0 bathrooms. This home is located at 136 Buena Vista St, Auburn, CA 95603.",
+        "Listing Photos": [
+            "https://photos.zillowstatic.com/fp/55039a114bacc02645b365f682366111-p_e.jpg",
+            "https://photos.zillowstatic.com/fp/621b090f14a9f7972d20186ea9e593dd-p_e.jpg",
+            "https://photos.zillowstatic.com/fp/60a696f25cc68aaf35f99c35a6f26b54-p_e.jpg",
+            "https://photos.zillowstatic.com/fp/7a5963e2029ebc034faa37a718e7d2b1-p_e.jpg",
+            "https://photos.zillowstatic.com/fp/13d6512b777cd8db77f348fa17629b9b-p_e.jpg",
+            "https://photos.zillowstatic.com/fp/a0d5f4a1048949a6443d27882786ae3d-p_e.jpg",
+            "https://photos.zillowstatic.com/fp/ce22ad325f0a5f41dddb971cce305209-p_e.jpg",
+            "https://photos.zillowstatic.com/fp/d3b65772252eaccc84b781d15eca040a-p_e.jpg",
+            "https://photos.zillowstatic.com/fp/3caaf70fdf98ec40a02ff4cc1d2c9347-p_e.jpg",
+            "https://photos.zillowstatic.com/fp/3f9353496a98344fa3cb9800eac8d367-p_e.jpg"
+        ],
+        "Complete_url": "https://www.zillow.com/homedetails/136-Buena-Vista-St-Auburn-CA-95603/17647191_zpid/",
+        "URL": "https://www.zillow.com/homedetails/136-Buena-Vista-St-Auburn-CA-95603/17647191_zpid/",
+        "Structure Area": null,
+        "Type": "SingleFamily",
+        "Year Built": "1967",
+        "Heating": "Forced air, Gas",
+        "Cooling": "Central",
+        "Parking": "3 Covered Parking spaces",
+        "HOA": "",
+        "Lot": "4,225 sqft",
+        "Price/sqft": "",
+        "Offer Review Date": null,
+        "Foreclosure Details": {
+            "trusteeName": null,
+            "trusteeAddress": null,
+            "trusteePhone": null,
+            "legalDescription": null,
+            "subdivision": null,
+            "recordedDocs": [
+                {
+                    "name": "Notice of Default",
+                    "number": "2025-0021779",
+                    "date": 1745391600000
+                }
+            ],
+            "apn": "001-132-012-000",
+            "foreclosureDefaultFilingDate": 1745366400000,
+            "foreclosureAuctionFilingDate": null,
+            "foreclosureLoanDate": 1634256000000,
+            "foreclosureLoanOriginator": "LOANDEPOTCOM LLC",
+            "foreclosureLoanAmount": 525000,
+            "foreclosurePriorSaleDate": 1634256000000,
+            "foreclosurePriorSaleAmount": 525000,
+            "foreclosureBalanceReportingDate": 1745280000000,
+            "foreclosureDefaultDescription": "Notice of Default",
+            "foreclosurePastDueBalance": 17883,
+            "foreclosureUnpaidBalance": null,
+            "foreclosureAuctionTime": null,
+            "foreclosureAuctionDescription": null,
+            "foreclosureAuctionCity": null,
+            "foreclosureAuctionLocation": null,
+            "foreclosureDate": null,
+            "foreclosureAmount": null,
+            "foreclosingBank": "LOANDEPOTCOM LLC",
+            "foreclosureJudicialType": "Non-Judicial"
+        },
+        "Agent_name": null,
+        "Agent_phone": null,
+        "Price History": [
+            {
+                "date": "2021-10-15",
+                "price": 525000,
+                "time": 1634256000000,
+                "pricePerSquareFoot": 300,
+                "priceChangeRate": 0,
+                "event": "Sold",
+                "source": "MetroList Services of CA",
+                "buyerAgent": {
+                    "photo": null,
+                    "profileUrl": "/profile/crwomack/",
+                    "name": "Chris Womack"
+                },
+                "sellerAgent": null,
+                "showCountyLink": false,
+                "postingIsRental": false,
+                "attributeSource": {
+                    "infoString1": "221098783",
+                    "infoString2": "MetroList Services of CA",
+                    "infoString3": "https://photos.zillowstatic.com/fp/a9163afb8e3f03dc06cadd2770aac678-zillow_web_logo_inf_11.jpg"
+                }
+            },
+            {
+                "date": "2021-09-16",
+                "price": 525000,
+                "time": 1631750400000,
+                "pricePerSquareFoot": 300,
+                "priceChangeRate": 0,
+                "event": "Pending sale",
+                "source": "MetroList Services of CA",
+                "buyerAgent": null,
+                "sellerAgent": null,
+                "showCountyLink": false,
+                "postingIsRental": false,
+                "attributeSource": {
+                    "infoString1": "221098783",
+                    "infoString2": "MetroList Services of CA",
+                    "infoString3": "https://photos.zillowstatic.com/fp/825197261b86b8a6b8a6fe9648a05c3c-zillow_web_logo_inf_11.jpg"
+                }
+            },
+            {
+                "date": "2021-09-07",
+                "price": 525000,
+                "time": 1630972800000,
+                "pricePerSquareFoot": 300,
+                "priceChangeRate": -0.0444120859119039,
+                "event": "Price change",
+                "source": "MetroList Services of CA",
+                "buyerAgent": null,
+                "sellerAgent": null,
+                "showCountyLink": false,
+                "postingIsRental": false,
+                "attributeSource": {
+                    "infoString1": "221098783",
+                    "infoString2": "MetroList Services of CA",
+                    "infoString3": "https://photos.zillowstatic.com/fp/825197261b86b8a6b8a6fe9648a05c3c-zillow_web_logo_inf_11.jpg"
+                }
+            },
+            {
+                "date": "2021-08-30",
+                "price": 549400,
+                "time": 1630281600000,
+                "pricePerSquareFoot": 314,
+                "priceChangeRate": -0.0009092562284051646,
+                "event": "Price change",
+                "source": "MetroList Services of CA",
+                "buyerAgent": null,
+                "sellerAgent": null,
+                "showCountyLink": false,
+                "postingIsRental": false,
+                "attributeSource": {
+                    "infoString1": "221098783",
+                    "infoString2": "MetroList Services of CA",
+                    "infoString3": "https://photos.zillowstatic.com/fp/825197261b86b8a6b8a6fe9648a05c3c-zillow_web_logo_inf_11.jpg"
+                }
+            },
+            {
+                "date": "2021-08-09",
+                "price": 549900,
+                "time": 1628467200000,
+                "pricePerSquareFoot": 314,
+                "priceChangeRate": 0.7738709677419355,
+                "event": "Listed for sale",
+                "source": "MetroList Services of CA",
+                "buyerAgent": null,
+                "sellerAgent": null,
+                "showCountyLink": false,
+                "postingIsRental": false,
+                "attributeSource": {
+                    "infoString1": "221098783",
+                    "infoString2": "MetroList Services of CA",
+                    "infoString3": "https://photos.zillowstatic.com/fp/825197261b86b8a6b8a6fe9648a05c3c-zillow_web_logo_inf_11.jpg"
+                }
+            },
+            {
+                "date": "2019-10-02",
+                "price": 2200,
+                "time": 1569974400000,
+                "pricePerSquareFoot": 1,
+                "priceChangeRate": 0,
+                "event": "Listing removed",
+                "source": "B and B Property Management",
+                "buyerAgent": null,
+                "sellerAgent": null,
+                "showCountyLink": false,
+                "postingIsRental": true,
+                "attributeSource": {
+                    "infoString1": null,
+                    "infoString2": "B and B Property Management",
+                    "infoString3": null
+                }
+            },
+            {
+                "date": "2019-08-04",
+                "price": 2200,
+                "time": 1564876800000,
+                "pricePerSquareFoot": 1,
+                "priceChangeRate": 0,
+                "event": "Listed for rent",
+                "source": "B and B Property Management",
+                "buyerAgent": null,
+                "sellerAgent": null,
+                "showCountyLink": false,
+                "postingIsRental": true,
+                "attributeSource": {
+                    "infoString1": null,
+                    "infoString2": "B and B Property Management",
+                    "infoString3": null
+                }
+            },
+            {
+                "date": "2015-05-22",
+                "price": 310000,
+                "time": 1432252800000,
+                "pricePerSquareFoot": 177,
+                "priceChangeRate": -0.10662824207492795,
+                "event": "Sold",
+                "source": "Public Record",
+                "buyerAgent": null,
+                "sellerAgent": {
+                    "photo": null,
+                    "profileUrl": "/profile/paula-ricketts/",
+                    "name": "Paula Ricketts"
+                },
+                "showCountyLink": false,
+                "postingIsRental": false,
+                "attributeSource": {
+                    "infoString1": null,
+                    "infoString2": "Public Record",
+                    "infoString3": null
+                }
+            },
+            {
+                "date": "2015-05-07",
+                "price": 347000,
+                "time": 1430956800000,
+                "pricePerSquareFoot": 198,
+                "priceChangeRate": 0,
+                "event": "Pending sale",
+                "source": "Coldwell Banker Residential Brokerage - Auburn",
+                "buyerAgent": null,
+                "sellerAgent": null,
+                "showCountyLink": false,
+                "postingIsRental": false,
+                "attributeSource": {
+                    "infoString1": "15022713",
+                    "infoString2": "Coldwell Banker Residential Brokerage - Auburn",
+                    "infoString3": null
+                }
+            },
+            {
+                "date": "2015-04-15",
+                "price": 347000,
+                "time": 1429056000000,
+                "pricePerSquareFoot": 198,
+                "priceChangeRate": 0,
+                "event": "Listed for sale",
+                "source": "Coldwell Banker Residential Brokerage - Auburn",
+                "buyerAgent": null,
+                "sellerAgent": null,
+                "showCountyLink": false,
+                "postingIsRental": false,
+                "attributeSource": {
+                    "infoString1": "15022713",
+                    "infoString2": "Coldwell Banker Residential Brokerage - Auburn",
+                    "infoString3": null
+                }
+            }
+        ],
+        "Tax History": [
+            {
+                "time": 1715010228232,
+                "taxPaid": 3813.2,
+                "taxIncreaseRate": -0.056428235,
+                "value": 440245,
+                "valueIncreaseRate": -0.022947945
+            },
+            {
+                "time": 1683387828232,
+                "taxPaid": 4041.24,
+                "taxIncreaseRate": -0.07297399,
+                "value": 450585,
+                "valueIncreaseRate": -0.031
+            },
+            {
+                "time": 1651851828232,
+                "taxPaid": 4359.36,
+                "taxIncreaseRate": 0.02357862,
+                "value": 465000,
+                "valueIncreaseRate": 0.49572992
+            },
+            {
+                "time": 1620315828232,
+                "taxPaid": 4258.94,
+                "taxIncreaseRate": 0.023473702,
+                "value": 310885,
+                "valueIncreaseRate": 0.010357559
+            },
+            {
+                "time": 1588779828232,
+                "taxPaid": 4161.26,
+                "taxIncreaseRate": 0,
+                "value": 307698,
+                "valueIncreaseRate": 0.019995624
+            },
+            {
+                "time": 1557157428232,
+                "taxPaid": 4161.26,
+                "taxIncreaseRate": 0.059362255,
+                "value": 301666,
+                "valueIncreaseRate": 0.019996483
+            },
+            {
+                "time": 1525621428232,
+                "taxPaid": 3928.08,
+                "taxIncreaseRate": 0.024004191,
+                "value": 295752,
+                "valueIncreaseRate": 0.019996276
+            },
+            {
+                "time": 1494085428232,
+                "taxPaid": 3836,
+                "taxIncreaseRate": 0.026250206,
+                "value": 289954,
+                "valueIncreaseRate": 0.019998664
+            },
+            {
+                "time": 1462549428232,
+                "taxPaid": 3737.88,
+                "taxIncreaseRate": 1.4652948,
+                "value": 284269,
+                "valueIncreaseRate": 3.4249024
+            },
+            {
+                "time": 1430927028232,
+                "taxPaid": 1516.2,
+                "taxIncreaseRate": 0.08238143,
+                "value": 64243,
+                "valueIncreaseRate": 0.019956816
+            },
+            {
+                "time": 1399391028232,
+                "taxPaid": 1400.8,
+                "taxIncreaseRate": 0,
+                "value": 62986,
+                "valueIncreaseRate": 0.004529361
+            },
+            {
+                "time": 1367855028232,
+                "taxPaid": null,
+                "taxIncreaseRate": 0,
+                "value": 62702,
+                "valueIncreaseRate": 0.019992517
+            },
+            {
+                "time": 1336319028232,
+                "taxPaid": null,
+                "taxIncreaseRate": 0,
+                "value": 61473,
+                "valueIncreaseRate": 0.019977102
+            },
+            {
+                "time": 1304696628232,
+                "taxPaid": null,
+                "taxIncreaseRate": 0,
+                "value": 60269,
+                "valueIncreaseRate": 0.0075226934
+            },
+            {
+                "time": 1273160628232,
+                "taxPaid": null,
+                "taxIncreaseRate": 0,
+                "value": 59819,
+                "valueIncreaseRate": -0.0023848438
+            },
+            {
+                "time": 1241624628232,
+                "taxPaid": null,
+                "taxIncreaseRate": 0,
+                "value": 59962,
+                "valueIncreaseRate": 0.019987412
+            },
+            {
+                "time": 1210088628232,
+                "taxPaid": null,
+                "taxIncreaseRate": 0,
+                "value": 58787,
+                "valueIncreaseRate": 0.019987855
+            },
+            {
+                "time": 1178466228232,
+                "taxPaid": null,
+                "taxIncreaseRate": 0,
+                "value": 57635,
+                "valueIncreaseRate": 0.01998018
+            },
+            {
+                "time": 1146930228232,
+                "taxPaid": null,
+                "taxIncreaseRate": 0,
+                "value": 56506,
+                "valueIncreaseRate": 0.01998231
+            },
+            {
+                "time": 1115394228232,
+                "taxPaid": null,
+                "taxIncreaseRate": 0,
+                "value": 55399,
+                "valueIncreaseRate": 0.019976433
+            },
+            {
+                "time": 1083858228232,
+                "taxPaid": null,
+                "taxIncreaseRate": 0,
+                "value": 54314,
+                "valueIncreaseRate": 0.018661264
+            },
+            {
+                "time": 1052235828232,
+                "taxPaid": null,
+                "taxIncreaseRate": 0,
+                "value": 53319,
+                "valueIncreaseRate": 0.019990817
+            },
+            {
+                "time": 1020699828232,
+                "taxPaid": null,
+                "taxIncreaseRate": 0,
+                "value": 52274,
+                "valueIncreaseRate": 0.019980488
+            },
+            {
+                "time": 989163828232,
+                "taxPaid": null,
+                "taxIncreaseRate": 0,
+                "value": 51250,
+                "valueIncreaseRate": 0.01996139
+            },
+            {
+                "time": 957627828232,
+                "taxPaid": null,
+                "taxIncreaseRate": 0,
+                "value": 50247,
+                "valueIncreaseRate": 0
+            }
+        ],
+        "Nearby Homes": [
+            {
+                "zpid": 17647189,
+                "miniCardPhotos": [
+                    {
+                        "url": "https://maps.googleapis.com/maps/api/streetview?location=125+Cedar+St%2C+Auburn%2C+CA+95603&size=316x234&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=IGbp6IwJT4uLQUYk1PNeaPBZifI="
+                    }
+                ],
+                "price": 460000,
+                "currency": "USD",
+                "bedrooms": 3,
+                "bathrooms": 2,
+                "livingArea": 1491,
+                "livingAreaValue": 1491,
+                "livingAreaUnits": "Square Feet",
+                "livingAreaUnitsShort": "sqft",
+                "listingMetadata": {
+                    "comminglingCategoryIsRulesApplicable": false
+                },
+                "lotSize": 5227,
+                "lotAreaValue": 5227,
+                "lotAreaUnits": "Square Feet",
+                "address": {
+                    "streetAddress": "125 Cedar St",
+                    "city": "Auburn",
+                    "state": "CA",
+                    "zipcode": "95603"
+                },
+                "parentRegion": null,
+                "formattedChip": {
+                    "location": [
+                        {
+                            "fullValue": "125 Cedar St"
+                        },
+                        {
+                            "fullValue": null
+                        }
+                    ]
+                },
+                "latitude": 38.89656,
+                "longitude": -121.082504,
+                "homeStatus": "SOLD",
+                "homeType": "SINGLE_FAMILY",
+                "hdpUrl": "/homedetails/125-Cedar-St-Auburn-CA-95603/17647189_zpid/",
+                "hdpTypeDimension": "RecentlySold",
+                "propertyTypeDimension": "Single Family",
+                "listingTypeDimension": "Unknown Listed By",
+                "listing_sub_type": {
+                    "is_newHome": false,
+                    "is_forAuction": false,
+                    "is_bankOwned": false,
+                    "is_foreclosure": false,
+                    "is_FSBO": false,
+                    "is_comingSoon": false,
+                    "is_FSBA": false
+                },
+                "providerListingID": null,
+                "attributionInfo": {
+                    "mlsId": null,
+                    "mlsName": null,
+                    "providerLogo": null,
+                    "agentName": null,
+                    "agentPhoneNumber": null,
+                    "brokerName": null,
+                    "brokerPhoneNumber": null,
+                    "trueStatus": null
+                },
+                "isShowcaseListing": false,
+                "isPremierBuilder": false,
+                "state": "CA",
+                "newConstructionType": null
+            }
+        ],
+        "Comparable Homes": []
+    },
+    {
+        "Zpid": "18299784",
+        "Street_address": "5034 Kushner Way",
+        "City": "Antioch",
+        "State": "CA",
+        "ZipCode": "94531",
+        "Price": null,
+        "Beds": 4,
+        "Baths": 3.0,
+        "Sqr_feet": 1680,
+        "Home_Status": "Pre-foreclosure",
+        "Zestimate": 653600,
+        "RentZestimate": 3553,
+        "Days_on_zillow": 13,
+        "Home_Type": "SINGLE_FAMILY",
+        "Lat_Long": {
+            "latitude": 37.97535,
+            "longitude": -121.75919
+        },
+        "Broker_Name": null,
+        "Event Description": "This 1680 square foot single family home has 4 bedrooms and 3.0 bathrooms. This home is located at 5034 Kushner Way, Antioch, CA 94531.",
+        "Listing Photos": [
+            "https://photos.zillowstatic.com/fp/477e844e23a078f015d53a37480503f1-p_e.jpg"
+        ],
+        "Complete_url": "https://www.zillow.com/homedetails/5034-Kushner-Way-Antioch-CA-94531/18299784_zpid/",
+        "URL": "https://www.zillow.com/homedetails/5034-Kushner-Way-Antioch-CA-94531/18299784_zpid/",
+        "Structure Area": null,
+        "Type": "SingleFamily",
+        "Year Built": "1993",
+        "Heating": null,
+        "Cooling": "Central",
+        "Parking": "Garage - Attached",
+        "HOA": "",
+        "Lot": "5,501 sqft",
+        "Price/sqft": "",
+        "Offer Review Date": null,
+        "Foreclosure Details": {
+            "trusteeName": null,
+            "trusteeAddress": null,
+            "trusteePhone": null,
+            "legalDescription": null,
+            "subdivision": null,
+            "recordedDocs": [
+                {
+                    "name": "Notice of Default",
+                    "number": "2025-0038617",
+                    "date": 1745391600000
+                }
+            ],
+            "apn": "053-403-040-8",
+            "foreclosureDefaultFilingDate": 1745366400000,
+            "foreclosureAuctionFilingDate": null,
+            "foreclosureLoanDate": 1633910400000,
+            "foreclosureLoanOriginator": "PATELCO CU",
+            "foreclosureLoanAmount": null,
+            "foreclosurePriorSaleDate": 1481587200000,
+            "foreclosurePriorSaleAmount": 425000,
+            "foreclosureBalanceReportingDate": 1745366400000,
+            "foreclosureDefaultDescription": "Notice of Default",
+            "foreclosurePastDueBalance": 4041,
+            "foreclosureUnpaidBalance": null,
+            "foreclosureAuctionTime": null,
+            "foreclosureAuctionDescription": null,
+            "foreclosureAuctionCity": null,
+            "foreclosureAuctionLocation": null,
+            "foreclosureDate": null,
+            "foreclosureAmount": null,
+            "foreclosingBank": "PATELCO CU",
+            "foreclosureJudicialType": "Non-Judicial"
+        },
+        "Agent_name": null,
+        "Agent_phone": null,
+        "Price History": [
+            {
+                "date": "2016-12-13",
+                "price": 425000,
+                "time": 1481587200000,
+                "pricePerSquareFoot": 253,
+                "priceChangeRate": 0.024343215232586167,
+                "event": "Sold",
+                "source": "bridgeMLS/CCAR/Bay East AOR",
+                "buyerAgent": null,
+                "sellerAgent": {
+                    "photo": null,
+                    "profileUrl": "/profile/Macky-Hensel/",
+                    "name": "Macky Hensel"
+                },
+                "showCountyLink": false,
+                "postingIsRental": false,
+                "attributeSource": {
+                    "infoString1": "40759999",
+                    "infoString2": "bridgeMLS/CCAR/Bay East AOR",
+                    "infoString3": "https://photos.zillowstatic.com/fp/542acdc3b2ca053db8ac9dea64ca1739-zillow_web_logo_inf_11.jpg"
+                }
+            },
+            {
+                "date": "2016-10-07",
+                "price": 414900,
+                "time": 1475798400000,
+                "pricePerSquareFoot": 247,
+                "priceChangeRate": 1.1168367346938775,
+                "event": "Listed for sale",
+                "source": "REALTY ONE GROUP ELITE",
+                "buyerAgent": null,
+                "sellerAgent": null,
+                "showCountyLink": false,
+                "postingIsRental": false,
+                "attributeSource": {
+                    "infoString1": "40759999",
+                    "infoString2": "REALTY ONE GROUP ELITE",
+                    "infoString3": null
+                }
+            },
+            {
+                "date": "1999-04-29",
+                "price": 196000,
+                "time": 925344000000,
+                "pricePerSquareFoot": 117,
+                "priceChangeRate": 0,
+                "event": "Sold",
+                "source": "Public Record",
+                "buyerAgent": null,
+                "sellerAgent": null,
+                "showCountyLink": false,
+                "postingIsRental": false,
+                "attributeSource": {
+                    "infoString1": null,
+                    "infoString2": "Public Record",
+                    "infoString3": null
+                }
+            }
+        ],
+        "Tax History": [
+            {
+                "time": 1715010278554,
+                "taxPaid": 5657.2,
+                "taxIncreaseRate": 0.037405416,
+                "value": 483571,
+                "valueIncreaseRate": 0.019998312
+            },
+            {
+                "time": 1683387878554,
+                "taxPaid": 5453.22,
+                "taxIncreaseRate": 0.015890753,
+                "value": 474090,
+                "valueIncreaseRate": 0.01999587
+            },
+            {
+                "time": 1651851878554,
+                "taxPaid": 5367.92,
+                "taxIncreaseRate": 0.030904537,
+                "value": 464796,
+                "valueIncreaseRate": 0.019996313
+            },
+            {
+                "time": 1620315878554,
+                "taxPaid": 5207,
+                "taxIncreaseRate": 0.009280629,
+                "value": 455684,
+                "valueIncreaseRate": 0.010358926
+            },
+            {
+                "time": 1588779878554,
+                "taxPaid": 5159.12,
+                "taxIncreaseRate": 0.012930884,
+                "value": 451012,
+                "valueIncreaseRate": 0.019996833
+            },
+            {
+                "time": 1557157478554,
+                "taxPaid": 5093.26,
+                "taxIncreaseRate": 0.039585076,
+                "value": 442170,
+                "valueIncreaseRate": 0.02
+            },
+            {
+                "time": 1525621478554,
+                "taxPaid": 4899.32,
+                "taxIncreaseRate": 0.02082777,
+                "value": 433500,
+                "valueIncreaseRate": 0.02
+            },
+            {
+                "time": 1494085478554,
+                "taxPaid": 4799.36,
+                "taxIncreaseRate": 0.4328329,
+                "value": 425000,
+                "valueIncreaseRate": 0.4497549
+            },
+            {
+                "time": 1462549478554,
+                "taxPaid": 3349.56,
+                "taxIncreaseRate": -0.22540626,
+                "value": 293153,
+                "valueIncreaseRate": 0.015244969
+            },
+            {
+                "time": 1430927078554,
+                "taxPaid": 4324.28,
+                "taxIncreaseRate": 0,
+                "value": 288751,
+                "valueIncreaseRate": 0.019975556
+            },
+            {
+                "time": 1399391078554,
+                "taxPaid": 4324.28,
+                "taxIncreaseRate": 0,
+                "value": 283096,
+                "valueIncreaseRate": 0.3577746
+            },
+            {
+                "time": 1367855078554,
+                "taxPaid": null,
+                "taxIncreaseRate": 0,
+                "value": 208500,
+                "valueIncreaseRate": 0.28703704
+            },
+            {
+                "time": 1336319078554,
+                "taxPaid": null,
+                "taxIncreaseRate": 0,
+                "value": 162000,
+                "valueIncreaseRate": 0
+            },
+            {
+                "time": 1304696678554,
+                "taxPaid": null,
+                "taxIncreaseRate": 0,
+                "value": 162000,
+                "valueIncreaseRate": -0.22857143
+            },
+            {
+                "time": 1273160678554,
+                "taxPaid": null,
+                "taxIncreaseRate": 0,
+                "value": 210000,
+                "valueIncreaseRate": 0.06329114
+            },
+            {
+                "time": 1241624678554,
+                "taxPaid": null,
+                "taxIncreaseRate": 0,
+                "value": 197500,
+                "valueIncreaseRate": -0.25248855
+            },
+            {
+                "time": 1210088678554,
+                "taxPaid": null,
+                "taxIncreaseRate": 0,
+                "value": 264210,
+                "valueIncreaseRate": 0.019997684
+            },
+            {
+                "time": 1178466278554,
+                "taxPaid": null,
+                "taxIncreaseRate": 0,
+                "value": 259030,
+                "valueIncreaseRate": 0.019995905
+            },
+            {
+                "time": 1146930278554,
+                "taxPaid": null,
+                "taxIncreaseRate": 0,
+                "value": 253952,
+                "valueIncreaseRate": 0.019994056
+            },
+            {
+                "time": 1115394278554,
+                "taxPaid": null,
+                "taxIncreaseRate": 0,
+                "value": 248974,
+                "valueIncreaseRate": 0.019996477
+            },
+            {
+                "time": 1083858278554,
+                "taxPaid": null,
+                "taxIncreaseRate": 0,
+                "value": 244093,
+                "valueIncreaseRate": 0.13490455
+            },
+            {
+                "time": 1052235878554,
+                "taxPaid": null,
+                "taxIncreaseRate": 0,
+                "value": 215078,
+                "valueIncreaseRate": 0.019998956
+            },
+            {
+                "time": 1020699878554,
+                "taxPaid": null,
+                "taxIncreaseRate": 0,
+                "value": 210861,
+                "valueIncreaseRate": 0.019997388
+            },
+            {
+                "time": 989163878554,
+                "taxPaid": null,
+                "taxIncreaseRate": 0,
+                "value": 206727,
+                "valueIncreaseRate": 0
+            }
+        ],
+        "Nearby Homes": [],
+        "Comparable Homes": []
+    },
+    {
+        "Zpid": "246230687",
+        "Street_address": "San Rey Ct",
+        "City": "Bonsall",
+        "State": "CA",
+        "ZipCode": "92003",
+        "Price": null,
+        "Beds": null,
+        "Baths": null,
+        "Sqr_feet": null,
+        "Home_Status": "Pre-foreclosure",
+        "Zestimate": null,
+        "RentZestimate": 4057,
+        "Days_on_zillow": 18,
+        "Home_Type": "SINGLE_FAMILY",
+        "Lat_Long": {
+            "latitude": 33.320057,
+            "longitude": -117.15958
+        },
+        "Broker_Name": null,
+        "Event Description": " This home is located at San Rey Ct, Bonsall, CA 92003.",
+        "Listing Photos": [],
+        "Complete_url": "https://www.zillow.com/homedetails/San-Rey-Ct-Bonsall-CA-92003/246230687_zpid/",
+        "URL": "https://www.zillow.com/homedetails/San-Rey-Ct-Bonsall-CA-92003/246230687_zpid/",
+        "Structure Area": null,
+        "Type": "Unknown",
+        "Year Built": null,
+        "Heating": null,
+        "Cooling": null,
+        "Parking": "No Data",
+        "HOA": "",
+        "Lot": "",
+        "Price/sqft": "",
+        "Offer Review Date": null,
+        "Foreclosure Details": {
+            "trusteeName": null,
+            "trusteeAddress": null,
+            "trusteePhone": null,
+            "legalDescription": null,
+            "subdivision": null,
+            "recordedDocs": [
+                {
+                    "name": "Notice of Sale",
+                    "number": "2025-0100992",
+                    "date": 1744959600000
+                }
+            ],
+            "apn": "125-301-21-00",
+            "foreclosureDefaultFilingDate": null,
+            "foreclosureAuctionFilingDate": "2025-04-18 00:00:00",
+            "foreclosureLoanDate": 1702857600000,
+            "foreclosureLoanOriginator": null,
+            "foreclosureLoanAmount": 3700000,
+            "foreclosurePriorSaleDate": 1521504000000,
+            "foreclosurePriorSaleAmount": 350000,
+            "foreclosureBalanceReportingDate": null,
+            "foreclosureDefaultDescription": null,
+            "foreclosurePastDueBalance": null,
+            "foreclosureUnpaidBalance": 4209195,
+            "foreclosureAuctionTime": null,
+            "foreclosureAuctionDescription": "Notice of Sale",
+            "foreclosureAuctionCity": "EL CAJON",
+            "foreclosureAuctionLocation": "250 E MAIN ST",
+            "foreclosureDate": null,
+            "foreclosureAmount": null,
+            "foreclosingBank": null,
+            "foreclosureJudicialType": "Non-Judicial"
+        },
+        "Agent_name": null,
+        "Agent_phone": null,
+        "Price History": [],
+        "Tax History": [
+            {
+                "time": 1715010280878,
+                "taxPaid": 124.36,
+                "taxIncreaseRate": 0.018843217,
+                "value": 8364,
+                "valueIncreaseRate": 0.02
+            },
+            {
+                "time": 1683387880878,
+                "taxPaid": 122.06,
+                "taxIncreaseRate": 0.013787342,
+                "value": 8200,
+                "valueIncreaseRate": 0.019900497
+            },
+            {
+                "time": 1651851880878,
+                "taxPaid": 120.4,
+                "taxIncreaseRate": 0.01244537,
+                "value": 8040,
+                "valueIncreaseRate": 0.019916276
+            },
+            {
+                "time": 1620315880878,
+                "taxPaid": 118.92,
+                "taxIncreaseRate": 0.0055808895,
+                "value": 7883,
+                "valueIncreaseRate": 0.010252467
+            },
+            {
+                "time": 1588779880878,
+                "taxPaid": 118.26,
+                "taxIncreaseRate": 0.47236058,
+                "value": 7803,
+                "valueIncreaseRate": 0.02
+            },
+            {
+                "time": 1557157480878,
+                "taxPaid": 80.32,
+                "taxIncreaseRate": -0.5913508,
+                "value": 7650,
+                "valueIncreaseRate": -0.4859562
+            },
+            {
+                "time": 1525621480878,
+                "taxPaid": 196.55,
+                "taxIncreaseRate": 0.017444924,
+                "value": 14882,
+                "valueIncreaseRate": 0.019943802
+            },
+            {
+                "time": 1494085480878,
+                "taxPaid": 193.18,
+                "taxIncreaseRate": 0.022116363,
+                "value": 14591,
+                "valueIncreaseRate": 0.019993009
+            },
+            {
+                "time": 1462549480878,
+                "taxPaid": 189,
+                "taxIncreaseRate": 0.012753215,
+                "value": 14305,
+                "valueIncreaseRate": 0.015186999
+            },
+            {
+                "time": 1430927080878,
+                "taxPaid": 186.62,
+                "taxIncreaseRate": 0.01545324,
+                "value": 14091,
+                "valueIncreaseRate": 0.019978285
+            },
+            {
+                "time": 1399391080878,
+                "taxPaid": 183.78,
+                "taxIncreaseRate": 0,
+                "value": 13815,
+                "valueIncreaseRate": 0.0045081074
+            },
+            {
+                "time": 1367855080878,
+                "taxPaid": null,
+                "taxIncreaseRate": 0,
+                "value": 13753,
+                "valueIncreaseRate": 0.01994957
+            },
+            {
+                "time": 1336319080878,
+                "taxPaid": null,
+                "taxIncreaseRate": 0,
+                "value": 13484,
+                "valueIncreaseRate": 0.019969743
+            },
+            {
+                "time": 1304696680878,
+                "taxPaid": null,
+                "taxIncreaseRate": 0,
+                "value": 13220,
+                "valueIncreaseRate": 0.0074683735
+            },
+            {
+                "time": 1273160680878,
+                "taxPaid": null,
+                "taxIncreaseRate": 0,
+                "value": 13122,
+                "valueIncreaseRate": -0.00243272
+            },
+            {
+                "time": 1241624680878,
+                "taxPaid": null,
+                "taxIncreaseRate": 0,
+                "value": 13154,
+                "valueIncreaseRate": 0.019927114
+            },
+            {
+                "time": 1210088680878,
+                "taxPaid": null,
+                "taxIncreaseRate": 0,
+                "value": 12897,
+                "valueIncreaseRate": 0
+            }
+        ],
+        "Nearby Homes": [],
+        "Comparable Homes": []
+    },
+    {
+        "Zpid": "80295418",
+        "Street_address": "16 Knight Ln",
+        "City": "Westville",
+        "State": "IL",
+        "ZipCode": "61883",
+        "Price": null,
+        "Beds": 4,
+        "Baths": 2.0,
+        "Sqr_feet": 1959,
+        "Home_Status": "Pre-foreclosure",
+        "Zestimate": 194200,
+        "RentZestimate": 1607,
+        "Days_on_zillow": 105,
+        "Home_Type": "SINGLE_FAMILY",
+        "Lat_Long": {
+            "latitude": 40.04767,
+            "longitude": -87.634285
+        },
+        "Broker_Name": null,
+        "Event Description": "This 1959 square foot single family home has 4 bedrooms and 2.0 bathrooms. This home is located at 16 Knight Ln, Westville, IL 61883.",
+        "Listing Photos": [
+            "https://photos.zillowstatic.com/fp/24d5c0c16ff96b2230db99fa8af33a17-p_e.jpg"
+        ],
+        "Complete_url": "https://www.zillow.com/homedetails/16-Knight-Ln-Westville-IL-61883/80295418_zpid/",
+        "URL": "https://www.zillow.com/homedetails/16-Knight-Ln-Westville-IL-61883/80295418_zpid/",
+        "Structure Area": "1,959",
+        "Type": "Single Family Residence",
+        "Year Built": "1987",
+        "Heating": null,
+        "Cooling": null,
+        "Parking": "No Data",
+        "HOA": "",
+        "Lot": null,
+        "Price/sqft": "",
+        "Offer Review Date": null,
+        "Foreclosure Details": {
+            "trusteeName": "FREEDMAN ANSELMO LINDBERG AND RAPPE LLC",
+            "trusteeAddress": "1807 WEST DIEHL ROAD SUITE 333, NAPERVILLE, IL 60566",
+            "trusteePhone": "(630) 983-0770",
+            "legalDescription": null,
+            "subdivision": null,
+            "recordedDocs": [
+                {
+                    "name": "Notice of Sale",
+                    "number": null,
+                    "date": 1737446400000
+                }
+            ],
+            "apn": "28-05-300-005",
+            "foreclosureDefaultFilingDate": null,
+            "foreclosureAuctionFilingDate": "2025-01-21 00:00:00",
+            "foreclosureLoanDate": null,
+            "foreclosureLoanOriginator": "PHH MORTGAGE CORPORATION",
+            "foreclosureLoanAmount": null,
+            "foreclosurePriorSaleDate": 1136764800000,
+            "foreclosurePriorSaleAmount": 117000,
+            "foreclosureBalanceReportingDate": null,
+            "foreclosureDefaultDescription": null,
+            "foreclosurePastDueBalance": null,
+            "foreclosureUnpaidBalance": null,
+            "foreclosureAuctionTime": 1740650400000,
+            "foreclosureAuctionDescription": "Notice of Sale",
+            "foreclosureAuctionCity": "Danville",
+            "foreclosureAuctionLocation": "7 North Vermilion Street",
+            "foreclosureDate": null,
+            "foreclosureAmount": null,
+            "foreclosingBank": "PHH MORTGAGE CORPORATION",
+            "foreclosureJudicialType": "Judicial"
+        },
+        "Agent_name": null,
+        "Agent_phone": null,
+        "Price History": [
+            {
+                "date": "2025-02-28",
+                "price": null,
+                "time": 1740700800000,
+                "pricePerSquareFoot": 0,
+                "priceChangeRate": 0,
+                "event": "Listing removed",
+                "source": "Hubzu REO",
+                "buyerAgent": null,
+                "sellerAgent": null,
+                "showCountyLink": false,
+                "postingIsRental": false,
+                "attributeSource": {
+                    "infoString1": "91716831861",
+                    "infoString2": "Hubzu REO",
+                    "infoString3": "https://photos.zillowstatic.com/fp/11b7661bf22455e5cbbf4f436d3a0720-zillow_web_logo_inf_11.jpg"
+                }
+            },
+            {
+                "date": "2025-01-23",
+                "price": null,
+                "time": 1737590400000,
+                "pricePerSquareFoot": 0,
+                "priceChangeRate": 0,
+                "event": "Pending sale",
+                "source": "Hubzu REO",
+                "buyerAgent": null,
+                "sellerAgent": null,
+                "showCountyLink": false,
+                "postingIsRental": false,
+                "attributeSource": {
+                    "infoString1": "91716831861",
+                    "infoString2": "Hubzu REO",
+                    "infoString3": "https://photos.zillowstatic.com/fp/11b7661bf22455e5cbbf4f436d3a0720-zillow_web_logo_inf_11.jpg"
+                }
+            },
+            {
+                "date": "2006-01-09",
+                "price": 117000,
+                "time": 1136764800000,
+                "pricePerSquareFoot": 60,
+                "priceChangeRate": 0,
+                "event": "Sold",
+                "source": "Public Record",
+                "buyerAgent": null,
+                "sellerAgent": null,
+                "showCountyLink": false,
+                "postingIsRental": false,
+                "attributeSource": {
+                    "infoString1": null,
+                    "infoString2": "Public Record",
+                    "infoString3": null
+                }
+            }
+        ],
+        "Tax History": [
+            {
+                "time": 1683387884821,
+                "taxPaid": 3672.92,
+                "taxIncreaseRate": 0.018896991,
+                "value": 53137,
+                "valueIncreaseRate": 0.054514784
+            },
+            {
+                "time": 1651851884821,
+                "taxPaid": 3604.8,
+                "taxIncreaseRate": 0.018138263,
+                "value": 50390,
+                "valueIncreaseRate": 0.05001042
+            },
+            {
+                "time": 1620315884821,
+                "taxPaid": 3540.58,
+                "taxIncreaseRate": 0.04869413,
+                "value": 47990,
+                "valueIncreaseRate": 0.060013697
+            },
+            {
+                "time": 1588779884821,
+                "taxPaid": 3376.18,
+                "taxIncreaseRate": 0.076704755,
+                "value": 45273,
+                "valueIncreaseRate": 0.10228379
+            },
+            {
+                "time": 1494085484821,
+                "taxPaid": 3135.66,
+                "taxIncreaseRate": 0,
+                "value": 41072,
+                "valueIncreaseRate": 0.104145385
+            },
+            {
+                "time": 1430927084821,
+                "taxPaid": 3135.66,
+                "taxIncreaseRate": 0.10794443,
+                "value": 37198,
+                "valueIncreaseRate": -0.036321245
+            },
+            {
+                "time": 1399391084821,
+                "taxPaid": 2830.16,
+                "taxIncreaseRate": 0,
+                "value": 38600,
+                "valueIncreaseRate": 0
+            },
+            {
+                "time": 1367855084821,
+                "taxPaid": 2830.16,
+                "taxIncreaseRate": 0,
+                "value": 38600,
+                "valueIncreaseRate": -0.035
+            },
+            {
+                "time": 1336319084821,
+                "taxPaid": null,
+                "taxIncreaseRate": 0,
+                "value": 40000,
+                "valueIncreaseRate": 0
+            },
+            {
+                "time": 1304696684821,
+                "taxPaid": null,
+                "taxIncreaseRate": 0,
+                "value": 40000,
+                "valueIncreaseRate": 0
+            },
+            {
+                "time": 1273160684821,
+                "taxPaid": null,
+                "taxIncreaseRate": 0,
+                "value": 40000,
+                "valueIncreaseRate": -0.0552892
+            },
+            {
+                "time": 1241624684821,
+                "taxPaid": null,
+                "taxIncreaseRate": 0,
+                "value": 42341,
+                "valueIncreaseRate": 0
+            },
+            {
+                "time": 1210088684821,
+                "taxPaid": null,
+                "taxIncreaseRate": 0,
+                "value": 42341,
+                "valueIncreaseRate": 0.11400232
+            },
+            {
+                "time": 1178466284821,
+                "taxPaid": 2820.16,
+                "taxIncreaseRate": 0.042403445,
+                "value": 38008,
+                "valueIncreaseRate": 0
+            },
+            {
+                "time": 1146930284821,
+                "taxPaid": 2705.44,
+                "taxIncreaseRate": 0.11285513,
+                "value": 38008,
+                "valueIncreaseRate": 0
+            },
+            {
+                "time": 1115394284821,
+                "taxPaid": 2431.08,
+                "taxIncreaseRate": 0.026335174,
+                "value": 38008,
+                "valueIncreaseRate": 0.11290701
+            },
+            {
+                "time": 1083858284821,
+                "taxPaid": 2368.7,
+                "taxIncreaseRate": 0.06358037,
+                "value": 34152,
+                "valueIncreaseRate": 0.0709985
+            },
+            {
+                "time": 1020699884821,
+                "taxPaid": 2227.1,
+                "taxIncreaseRate": 0.02501915,
+                "value": 31888,
+                "valueIncreaseRate": 0.059296414
+            },
+            {
+                "time": 989163884821,
+                "taxPaid": 2172.74,
+                "taxIncreaseRate": 0.022417717,
+                "value": 30103,
+                "valueIncreaseRate": 0
+            },
+            {
+                "time": 957627884821,
+                "taxPaid": 2125.1,
+                "taxIncreaseRate": 0,
+                "value": 30103,
+                "valueIncreaseRate": 0
+            }
+        ],
+        "Nearby Homes": [
+            {
+                "zpid": 80295379,
+                "miniCardPhotos": [
+                    {
+                        "url": "https://photos.zillowstatic.com/fp/a83b124a5f8ac9ea1037d51cf99e4d9b-p_c.jpg"
+                    }
+                ],
+                "price": 75000,
+                "currency": "USD",
+                "bedrooms": 4,
+                "bathrooms": 2,
+                "livingArea": 1932,
+                "livingAreaValue": 1932,
+                "livingAreaUnits": "Square Feet",
+                "livingAreaUnitsShort": "sqft",
+                "listingMetadata": {
+                    "comminglingCategoryIsRulesApplicable": false
+                },
+                "lotSize": 6577,
+                "lotAreaValue": 6577,
+                "lotAreaUnits": "Square Feet",
+                "address": {
+                    "streetAddress": "208 Washington Ave",
+                    "city": "Westville",
+                    "state": "IL",
+                    "zipcode": "61883"
+                },
+                "parentRegion": null,
+                "formattedChip": {
+                    "location": [
+                        {
+                            "fullValue": "208 Washington Ave"
+                        },
+                        {
+                            "fullValue": null
+                        }
+                    ]
+                },
+                "latitude": 40.04804,
+                "longitude": -87.63429,
+                "homeStatus": "SOLD",
+                "homeType": "SINGLE_FAMILY",
+                "hdpUrl": "/homedetails/208-Washington-Ave-Westville-IL-61883/80295379_zpid/",
+                "hdpTypeDimension": "RecentlySold",
+                "propertyTypeDimension": "Single Family",
+                "listingTypeDimension": "Unknown Listed By",
+                "listing_sub_type": {
+                    "is_newHome": false,
+                    "is_forAuction": false,
+                    "is_bankOwned": false,
+                    "is_foreclosure": false,
+                    "is_FSBO": false,
+                    "is_comingSoon": false,
+                    "is_FSBA": false
+                },
+                "providerListingID": null,
+                "attributionInfo": {
+                    "mlsId": null,
+                    "mlsName": null,
+                    "providerLogo": null,
+                    "agentName": null,
+                    "agentPhoneNumber": null,
+                    "brokerName": null,
+                    "brokerPhoneNumber": null,
+                    "trueStatus": null
+                },
+                "isShowcaseListing": false,
+                "isPremierBuilder": false,
+                "state": "IL",
+                "newConstructionType": null
+            }
+        ],
+        "Comparable Homes": []
+    },
+    {
+        "Zpid": "216670435",
+        "Street_address": "529 W Maple St",
+        "City": "Hoopeston",
+        "State": "IL",
+        "ZipCode": "60942",
+        "Price": null,
+        "Beds": 3,
+        "Baths": 1.0,
+        "Sqr_feet": 1008,
+        "Home_Status": "Pre-foreclosure",
+        "Zestimate": 75600,
+        "RentZestimate": 972,
+        "Days_on_zillow": 8,
+        "Home_Type": "SINGLE_FAMILY",
+        "Lat_Long": {
+            "latitude": 40.46207,
+            "longitude": -87.67847
+        },
+        "Broker_Name": null,
+        "Event Description": "New on the market is this Move in ready Ranch. The entire inside has been gutted and remodeled from the brand new kitchen with Gas stove hookup, to the laundry room, to the new Bath. Generous size living room. Brand new forced air gas furnice. Brand new Central Air. New plumbing and some new electrical, including new light fixtures and indirect LED lighting in the kitchen. All new flooring and fresh paint inside and out. Brand new steel entry doors on the front and back. Car port. Front deck. Corner lot. Owner says lets sell it to the first good offer! All sq footage, yr built, and sq footage is approximate.",
+        "Listing Photos": [
+            "https://photos.zillowstatic.com/fp/4e6e576cd9434b9dd3ce8926c3bb748c-p_e.jpg",
+            "https://photos.zillowstatic.com/fp/2f7d379e1f0dbd5eefbfbc2c09e8b2a3-p_e.jpg",
+            "https://photos.zillowstatic.com/fp/8624bbfb4d11f8efa446e8e0cd037e87-p_e.jpg",
+            "https://photos.zillowstatic.com/fp/a43b47697f4b1283218f43b705d1da6b-p_e.jpg",
+            "https://photos.zillowstatic.com/fp/89de81c7d5fcede8c6e7241fb6097a64-p_e.jpg",
+            "https://photos.zillowstatic.com/fp/85cef8e0a0bd3d9319fb92bd72fbe7f7-p_e.jpg",
+            "https://photos.zillowstatic.com/fp/e28ff6e3d94254f8664a3d8027cac5ba-p_e.jpg",
+            "https://photos.zillowstatic.com/fp/1008578a504281538d6b6180fffa1500-p_e.jpg",
+            "https://photos.zillowstatic.com/fp/739b11660f9b50c705c11a1ab96ac5b3-p_e.jpg"
+        ],
+        "Complete_url": "https://www.zillow.com/homedetails/529-W-Maple-St-Hoopeston-IL-60942/216670435_zpid/",
+        "URL": "https://www.zillow.com/homedetails/529-W-Maple-St-Hoopeston-IL-60942/216670435_zpid/",
+        "Structure Area": null,
+        "Type": "Single Family",
+        "Year Built": "1919",
+        "Heating": "Forced air, Gas",
+        "Cooling": "Central",
+        "Parking": "No Data",
+        "HOA": "",
+        "Lot": "5,662 sqft",
+        "Price/sqft": "",
+        "Offer Review Date": null,
+        "Foreclosure Details": {
+            "trusteeName": "ROBERTSON ANSCHUTZ SCHNEID CRANE AND PAR",
+            "trusteeAddress": "205 N MICHIGAN AVE STE 810, CHICAGO, IL 60601",
+            "trusteePhone": "(561) 241-6901",
+            "legalDescription": null,
+            "subdivision": null,
+            "recordedDocs": [
+                {
+                    "name": "Notice of Sale",
+                    "number": null,
+                    "date": 1745823600000
+                }
+            ],
+            "apn": "03-11-411-001",
+            "foreclosureDefaultFilingDate": null,
+            "foreclosureAuctionFilingDate": "2025-04-28 00:00:00",
+            "foreclosureLoanDate": null,
+            "foreclosureLoanOriginator": "Lakeview Loan Servicing LLC",
+            "foreclosureLoanAmount": null,
+            "foreclosurePriorSaleDate": null,
+            "foreclosurePriorSaleAmount": null,
+            "foreclosureBalanceReportingDate": null,
+            "foreclosureDefaultDescription": null,
+            "foreclosurePastDueBalance": null,
+            "foreclosureUnpaidBalance": null,
+            "foreclosureAuctionTime": 1753956000000,
+            "foreclosureAuctionDescription": "Notice of Sale",
+            "foreclosureAuctionCity": "Danville",
+            "foreclosureAuctionLocation": "7 North Vermilion Street",
+            "foreclosureDate": null,
+            "foreclosureAmount": null,
+            "foreclosingBank": "Lakeview Loan Servicing LLC",
+            "foreclosureJudicialType": "Judicial"
+        },
+        "Agent_name": null,
+        "Agent_phone": null,
+        "Price History": [
+            {
+                "date": "2020-03-16",
+                "price": 59000,
+                "time": 1584316800000,
+                "pricePerSquareFoot": 59,
+                "priceChangeRate": -0.056,
+                "event": "Sold",
+                "source": "CIBR",
+                "buyerAgent": {
+                    "photo": null,
+                    "profileUrl": "/profile/Hayley-Siefert/",
+                    "name": "Hayley Siefert"
+                },
+                "sellerAgent": {
+                    "photo": null,
+                    "profileUrl": "/profile/jerryurichsells/",
+                    "name": "Jerry Urich"
+                },
+                "showCountyLink": false,
+                "postingIsRental": false,
+                "attributeSource": {
+                    "infoString1": "6198929",
+                    "infoString2": "CIBR",
+                    "infoString3": "https://photos.zillowstatic.com/fp/5b8c033f54d2743117614a8d795c5293-zillow_web_logo_inf_11.jpg"
+                }
+            },
+            {
+                "date": "2020-01-30",
+                "price": 62500,
+                "time": 1580342400000,
+                "pricePerSquareFoot": 62,
+                "priceChangeRate": 0,
+                "event": "Pending sale",
+                "source": "URICH REALTY",
+                "buyerAgent": null,
+                "sellerAgent": null,
+                "showCountyLink": false,
+                "postingIsRental": false,
+                "attributeSource": {
+                    "infoString1": "6198929",
+                    "infoString2": "URICH REALTY",
+                    "infoString3": null
+                }
+            },
+            {
+                "date": "2020-01-15",
+                "price": 62500,
+                "time": 1579046400000,
+                "pricePerSquareFoot": 62,
+                "priceChangeRate": 0,
+                "event": "Listed for sale",
+                "source": "URICH REALTY",
+                "buyerAgent": null,
+                "sellerAgent": null,
+                "showCountyLink": false,
+                "postingIsRental": false,
+                "attributeSource": {
+                    "infoString1": "6198929",
+                    "infoString2": "URICH REALTY",
+                    "infoString3": null
+                }
+            }
+        ],
+        "Tax History": [
+            {
+                "time": 1683387886788,
+                "taxPaid": 2000.2,
+                "taxIncreaseRate": 5.477751,
+                "value": 19507,
+                "valueIncreaseRate": 1.195004
+            },
+            {
+                "time": 1651851886788,
+                "taxPaid": 308.78,
+                "taxIncreaseRate": 0.04856013,
+                "value": 8887,
+                "valueIncreaseRate": 0.06994943
+            },
+            {
+                "time": 1620315886788,
+                "taxPaid": 294.48,
+                "taxIncreaseRate": -0.6776708,
+                "value": 8306,
+                "valueIncreaseRate": 0.014907136
+            },
+            {
+                "time": 1588779886788,
+                "taxPaid": 913.6,
+                "taxIncreaseRate": 0.11420064,
+                "value": 8184,
+                "valueIncreaseRate": 0.11971542
+            },
+            {
+                "time": 1494085486788,
+                "taxPaid": 819.96,
+                "taxIncreaseRate": 0,
+                "value": 7309,
+                "valueIncreaseRate": 0.029726684
+            },
+            {
+                "time": 1430927086788,
+                "taxPaid": 819.96,
+                "taxIncreaseRate": 0.06438553,
+                "value": 7098,
+                "valueIncreaseRate": 0.03484473
+            },
+            {
+                "time": 1399391086788,
+                "taxPaid": 770.36,
+                "taxIncreaseRate": 0,
+                "value": 6859,
+                "valueIncreaseRate": 0
+            },
+            {
+                "time": 1367855086788,
+                "taxPaid": 770.36,
+                "taxIncreaseRate": 0,
+                "value": 6859,
+                "valueIncreaseRate": -0.118720286
+            },
+            {
+                "time": 1336319086788,
+                "taxPaid": null,
+                "taxIncreaseRate": 0,
+                "value": 7783,
+                "valueIncreaseRate": 0
+            },
+            {
+                "time": 1304696686788,
+                "taxPaid": null,
+                "taxIncreaseRate": 0,
+                "value": 7783,
+                "valueIncreaseRate": 0
+            },
+            {
+                "time": 1273160686788,
+                "taxPaid": null,
+                "taxIncreaseRate": 0,
+                "value": 7783,
+                "valueIncreaseRate": 0
+            },
+            {
+                "time": 1241624686788,
+                "taxPaid": null,
+                "taxIncreaseRate": 0,
+                "value": 7783,
+                "valueIncreaseRate": 0
+            },
+            {
+                "time": 1210088686788,
+                "taxPaid": null,
+                "taxIncreaseRate": 0,
+                "value": 7783,
+                "valueIncreaseRate": 0.096969694
+            },
+            {
+                "time": 1178466286788,
+                "taxPaid": 722.54,
+                "taxIncreaseRate": 0.03747627,
+                "value": 7095,
+                "valueIncreaseRate": 0
+            },
+            {
+                "time": 1146930286788,
+                "taxPaid": 696.44,
+                "taxIncreaseRate": 0.07111657,
+                "value": 7095,
+                "valueIncreaseRate": 0
+            },
+            {
+                "time": 1115394286788,
+                "taxPaid": 650.2,
+                "taxIncreaseRate": 0.1820529,
+                "value": 7095,
+                "valueIncreaseRate": 0.076141365
+            },
+            {
+                "time": 1083858286788,
+                "taxPaid": 550.06,
+                "taxIncreaseRate": 0.032511182,
+                "value": 6593,
+                "valueIncreaseRate": 0.037940808
+            },
+            {
+                "time": 1020699886788,
+                "taxPaid": 532.74,
+                "taxIncreaseRate": 0.027701657,
+                "value": 6352,
+                "valueIncreaseRate": 0.035033405
+            },
+            {
+                "time": 989163886788,
+                "taxPaid": 518.38,
+                "taxIncreaseRate": 1.2975801,
+                "value": 6137,
+                "valueIncreaseRate": 0
+            },
+            {
+                "time": 957627886788,
+                "taxPaid": 225.62,
+                "taxIncreaseRate": 0,
+                "value": 6137,
+                "valueIncreaseRate": 0
+            }
+        ],
+        "Nearby Homes": [
+            {
+                "zpid": 80296549,
+                "miniCardPhotos": [
+                    {
+                        "url": "https://photos.zillowstatic.com/fp/60a5e7ed414f500bc105d73f3d1a4ae3-p_c.jpg"
+                    }
+                ],
+                "price": 110000,
+                "currency": "USD",
+                "bedrooms": 3,
+                "bathrooms": 1,
+                "livingArea": 1817,
+                "livingAreaValue": 1817,
+                "livingAreaUnits": "Square Feet",
+                "livingAreaUnitsShort": "sqft",
+                "listingMetadata": {
+                    "comminglingCategoryIsRulesApplicable": false
+                },
+                "lotSize": 16117,
+                "lotAreaValue": 0.37,
+                "lotAreaUnits": "Acres",
+                "address": {
+                    "streetAddress": "517 W Maple St",
+                    "city": "Hoopeston",
+                    "state": "IL",
+                    "zipcode": "60942"
+                },
+                "parentRegion": null,
+                "formattedChip": {
+                    "location": [
+                        {
+                            "fullValue": "517 W Maple St"
+                        },
+                        {
+                            "fullValue": null
+                        }
+                    ]
+                },
+                "latitude": 40.462097,
+                "longitude": -87.67781,
+                "homeStatus": "SOLD",
+                "homeType": "SINGLE_FAMILY",
+                "hdpUrl": "/homedetails/517-W-Maple-St-Hoopeston-IL-60942/80296549_zpid/",
+                "hdpTypeDimension": "RecentlySold",
+                "propertyTypeDimension": "Single Family",
+                "listingTypeDimension": "Unknown Listed By",
+                "listing_sub_type": {
+                    "is_newHome": false,
+                    "is_forAuction": false,
+                    "is_bankOwned": false,
+                    "is_foreclosure": false,
+                    "is_FSBO": false,
+                    "is_comingSoon": false,
+                    "is_FSBA": false
+                },
+                "providerListingID": null,
+                "attributionInfo": {
+                    "mlsId": "6223427",
+                    "mlsName": null,
+                    "providerLogo": null,
+                    "agentName": null,
+                    "agentPhoneNumber": null,
+                    "brokerName": null,
+                    "brokerPhoneNumber": null,
+                    "trueStatus": null
+                },
+                "isShowcaseListing": false,
+                "isPremierBuilder": false,
+                "state": "IL",
+                "newConstructionType": null
+            }
+        ],
+        "Comparable Homes": []
+    },
+    {
+        "Zpid": "99835578",
+        "Street_address": "Copernicus Rd",
+        "City": "North port",
+        "State": "FL",
+        "ZipCode": "34288",
+        "Price": null,
+        "Beds": null,
+        "Baths": null,
+        "Sqr_feet": null,
+        "Home_Status": "Pre-foreclosure",
+        "Zestimate": null,
+        "RentZestimate": 2760,
+        "Days_on_zillow": 19,
+        "Home_Type": "SINGLE_FAMILY",
+        "Lat_Long": {
+            "latitude": 27.066965,
+            "longitude": -82.06192
+        },
+        "Broker_Name": null,
+        "Event Description": " This home is located at Copernicus Rd, North Port, FL 34288.",
+        "Listing Photos": [],
+        "Complete_url": "https://www.zillow.com/homedetails/Copernicus-Rd-North-Port-FL-34288/99835578_zpid/",
+        "URL": "https://www.zillow.com/homedetails/Copernicus-Rd-North-Port-FL-34288/99835578_zpid/",
+        "Structure Area": null,
+        "Type": "Unknown",
+        "Year Built": null,
+        "Heating": null,
+        "Cooling": null,
+        "Parking": "No Data",
+        "HOA": "",
+        "Lot": "",
+        "Price/sqft": "",
+        "Offer Review Date": null,
+        "Foreclosure Details": {
+            "trusteeName": null,
+            "trusteeAddress": null,
+            "trusteePhone": null,
+            "legalDescription": null,
+            "subdivision": "46TH ADDITION TO PORT CHARLOTTE SUBDIVISION",
+            "recordedDocs": [
+                {
+                    "name": "Notice of Sale",
+                    "number": "2025058698",
+                    "date": 1744873200000
+                }
+            ],
+            "apn": "1128225018",
+            "foreclosureDefaultFilingDate": null,
+            "foreclosureAuctionFilingDate": "2025-04-17 00:00:00",
+            "foreclosureLoanDate": null,
+            "foreclosureLoanOriginator": "NEW VISTA PROPERTIES INC",
+            "foreclosureLoanAmount": null,
+            "foreclosurePriorSaleDate": 1351814400000,
+            "foreclosurePriorSaleAmount": 30000,
+            "foreclosureBalanceReportingDate": null,
+            "foreclosureDefaultDescription": null,
+            "foreclosurePastDueBalance": null,
+            "foreclosureUnpaidBalance": 35577,
+            "foreclosureAuctionTime": 1749546000000,
+            "foreclosureAuctionDescription": "Notice of Sale",
+            "foreclosureAuctionCity": null,
+            "foreclosureAuctionLocation": "WWW.SARASOTA.REALFORECLOSE.COM",
+            "foreclosureDate": null,
+            "foreclosureAmount": null,
+            "foreclosingBank": "NEW VISTA PROPERTIES INC",
+            "foreclosureJudicialType": "Judicial"
+        },
+        "Agent_name": null,
+        "Agent_phone": null,
+        "Price History": [
+            {
+                "date": "2012-11-02",
+                "price": 30000,
+                "time": 1351814400000,
+                "pricePerSquareFoot": null,
+                "priceChangeRate": -0.25,
+                "event": "Sold",
+                "source": "Public Record",
+                "buyerAgent": null,
+                "sellerAgent": null,
+                "showCountyLink": false,
+                "postingIsRental": false,
+                "attributeSource": {
+                    "infoString1": null,
+                    "infoString2": "Public Record",
+                    "infoString3": null
+                }
+            },
+            {
+                "date": "2005-06-03",
+                "price": 40000,
+                "time": 1117756800000,
+                "pricePerSquareFoot": null,
+                "priceChangeRate": 0,
+                "event": "Sold",
+                "source": "Public Record",
+                "buyerAgent": null,
+                "sellerAgent": null,
+                "showCountyLink": false,
+                "postingIsRental": false,
+                "attributeSource": {
+                    "infoString1": null,
+                    "infoString2": "Public Record",
+                    "infoString3": null
+                }
+            }
+        ],
+        "Tax History": [
+            {
+                "time": 1715010289707,
+                "taxPaid": 427.65,
+                "taxIncreaseRate": 0.11190559,
+                "value": 2573,
+                "valueIncreaseRate": 0.10004275
+            },
+            {
+                "time": 1683387889707,
+                "taxPaid": 384.61,
+                "taxIncreaseRate": 0.38294202,
+                "value": 2339,
+                "valueIncreaseRate": 0.10018814
+            },
+            {
+                "time": 1651851889707,
+                "taxPaid": 278.11,
+                "taxIncreaseRate": 0.056809474,
+                "value": 2126,
+                "valueIncreaseRate": 0.0998448
+            },
+            {
+                "time": 1620315889707,
+                "taxPaid": 263.16,
+                "taxIncreaseRate": 0.04110456,
+                "value": 1933,
+                "valueIncreaseRate": 0.10017075
+            },
+            {
+                "time": 1588779889707,
+                "taxPaid": 252.77,
+                "taxIncreaseRate": 0.022532392,
+                "value": 1757,
+                "valueIncreaseRate": 0.10018785
+            },
+            {
+                "time": 1557157489707,
+                "taxPaid": 247.2,
+                "taxIncreaseRate": 0,
+                "value": 1597,
+                "valueIncreaseRate": 0.064666666
+            },
+            {
+                "time": 1525621489707,
+                "taxPaid": 247.2,
+                "taxIncreaseRate": -0.04341775,
+                "value": 1500,
+                "valueIncreaseRate": 0.13636364
+            },
+            {
+                "time": 1494085489707,
+                "taxPaid": 258.42,
+                "taxIncreaseRate": 0.049037986,
+                "value": 1320,
+                "valueIncreaseRate": 0.1
+            },
+            {
+                "time": 1462549489707,
+                "taxPaid": 246.34,
+                "taxIncreaseRate": 0,
+                "value": 1200,
+                "valueIncreaseRate": -0.14285715
+            },
+            {
+                "time": 1430927089707,
+                "taxPaid": 246.34,
+                "taxIncreaseRate": -0.13655798,
+                "value": 1400,
+                "valueIncreaseRate": -0.6111111
+            },
+            {
+                "time": 1399391089707,
+                "taxPaid": 285.3,
+                "taxIncreaseRate": 0.045361184,
+                "value": 3600,
+                "valueIncreaseRate": 0
+            },
+            {
+                "time": 1367855089707,
+                "taxPaid": 272.92,
+                "taxIncreaseRate": 0.092422895,
+                "value": 3600,
+                "valueIncreaseRate": 0.125
+            },
+            {
+                "time": 1336319089707,
+                "taxPaid": 249.83,
+                "taxIncreaseRate": 0.0006408606,
+                "value": 3200,
+                "valueIncreaseRate": -0.08571429
+            },
+            {
+                "time": 1304696689707,
+                "taxPaid": 249.67,
+                "taxIncreaseRate": -0.008774046,
+                "value": 3500,
+                "valueIncreaseRate": -0.027777778
+            },
+            {
+                "time": 1273160689707,
+                "taxPaid": 251.88,
+                "taxIncreaseRate": -0.19485997,
+                "value": 3600,
+                "valueIncreaseRate": 0
+            },
+            {
+                "time": 1241624689707,
+                "taxPaid": 312.84,
+                "taxIncreaseRate": 0,
+                "value": 3600,
+                "valueIncreaseRate": -0.41935483
+            },
+            {
+                "time": 1210088689707,
+                "taxPaid": 312.84,
+                "taxIncreaseRate": -0.34650737,
+                "value": 6200,
+                "valueIncreaseRate": -0.6960784
+            },
+            {
+                "time": 1178466289707,
+                "taxPaid": 478.72,
+                "taxIncreaseRate": 0,
+                "value": 20400,
+                "valueIncreaseRate": -0.4052478
+            },
+            {
+                "time": 1146930289707,
+                "taxPaid": null,
+                "taxIncreaseRate": 0,
+                "value": 34300,
+                "valueIncreaseRate": 1.766129
+            },
+            {
+                "time": 1115394289707,
+                "taxPaid": null,
+                "taxIncreaseRate": 0,
+                "value": 12400,
+                "valueIncreaseRate": 3.1333334
+            },
+            {
+                "time": 1083858289707,
+                "taxPaid": 136.49,
+                "taxIncreaseRate": 0.22886473,
+                "value": 3000,
+                "valueIncreaseRate": 0.875
+            },
+            {
+                "time": 1052235889707,
+                "taxPaid": 111.07,
+                "taxIncreaseRate": 0.0011717798,
+                "value": 1600,
+                "valueIncreaseRate": 0
+            },
+            {
+                "time": 1020699889707,
+                "taxPaid": 110.94,
+                "taxIncreaseRate": 0.03905597,
+                "value": 1600,
+                "valueIncreaseRate": 0
+            },
+            {
+                "time": 989163889707,
+                "taxPaid": 106.77,
+                "taxIncreaseRate": -0.0024292455,
+                "value": 1600,
+                "valueIncreaseRate": 0
+            },
+            {
+                "time": 957627889707,
+                "taxPaid": 107.03,
+                "taxIncreaseRate": 0,
+                "value": 1600,
+                "valueIncreaseRate": 0
+            }
+        ],
+        "Nearby Homes": [
+            {
+                "zpid": 99785028,
+                "miniCardPhotos": [
+                    {
+                        "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=316x234&zoom=17&center=27.067180633544922,-82.06224822998047&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=wuNbdQ-1pG7xZa_N-vYA5kleJcU="
+                    }
+                ],
+                "price": 6900,
+                "currency": "USD",
+                "bedrooms": null,
+                "bathrooms": null,
+                "livingArea": null,
+                "livingAreaValue": null,
+                "livingAreaUnits": null,
+                "livingAreaUnitsShort": null,
+                "listingMetadata": {
+                    "comminglingCategoryIsRulesApplicable": false
+                },
+                "lotSize": 12067,
+                "lotAreaValue": 0.277020202020202,
+                "lotAreaUnits": "Acres",
+                "address": {
+                    "streetAddress": "Crimsonglory Rd",
+                    "city": "North port",
+                    "state": "FL",
+                    "zipcode": "34288"
+                },
+                "parentRegion": null,
+                "formattedChip": {
+                    "location": [
+                        {
+                            "fullValue": "Crimsonglory Rd"
+                        },
+                        {
+                            "fullValue": null
+                        }
+                    ]
+                },
+                "latitude": 27.06718,
+                "longitude": -82.06225,
+                "homeStatus": "SOLD",
+                "homeType": "SINGLE_FAMILY",
+                "hdpUrl": "/homedetails/Crimsonglory-Rd-North-Port-FL-34288/99785028_zpid/",
+                "hdpTypeDimension": "RecentlySold",
+                "propertyTypeDimension": "Single Family",
+                "listingTypeDimension": "Unknown Listed By",
+                "listing_sub_type": {
+                    "is_newHome": false,
+                    "is_forAuction": false,
+                    "is_bankOwned": false,
+                    "is_foreclosure": false,
+                    "is_FSBO": false,
+                    "is_comingSoon": false,
+                    "is_FSBA": false
+                },
+                "providerListingID": null,
+                "attributionInfo": {
+                    "mlsId": null,
+                    "mlsName": null,
+                    "providerLogo": null,
+                    "agentName": null,
+                    "agentPhoneNumber": null,
+                    "brokerName": null,
+                    "brokerPhoneNumber": null,
+                    "trueStatus": null
+                },
+                "isShowcaseListing": false,
+                "isPremierBuilder": false,
+                "state": "FL",
+                "newConstructionType": null
+            },
+            {
+                "zpid": 99872563,
+                "miniCardPhotos": [
+                    {
+                        "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=316x234&zoom=17&center=27.06655502319336,-82.06208801269531&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=ywbgtXXsmCSqxlJq5jIxe1IjkIM="
+                    }
+                ],
+                "price": 5000,
+                "currency": "USD",
+                "bedrooms": null,
+                "bathrooms": null,
+                "livingArea": null,
+                "livingAreaValue": null,
+                "livingAreaUnits": null,
+                "livingAreaUnitsShort": null,
+                "listingMetadata": {
+                    "comminglingCategoryIsRulesApplicable": false
+                },
+                "lotSize": 10000,
+                "lotAreaValue": 10000,
+                "lotAreaUnits": "Square Feet",
+                "address": {
+                    "streetAddress": "Copernicus Rd",
+                    "city": "North port",
+                    "state": "FL",
+                    "zipcode": "34288"
+                },
+                "parentRegion": null,
+                "formattedChip": {
+                    "location": [
+                        {
+                            "fullValue": "Copernicus Rd"
+                        },
+                        {
+                            "fullValue": null
+                        }
+                    ]
+                },
+                "latitude": 27.066555,
+                "longitude": -82.06209,
+                "homeStatus": "SOLD",
+                "homeType": "SINGLE_FAMILY",
+                "hdpUrl": "/homedetails/Copernicus-Rd-North-Port-FL-34288/99872563_zpid/",
+                "hdpTypeDimension": "RecentlySold",
+                "propertyTypeDimension": "Single Family",
+                "listingTypeDimension": "Unknown Listed By",
+                "listing_sub_type": {
+                    "is_newHome": false,
+                    "is_forAuction": false,
+                    "is_bankOwned": false,
+                    "is_foreclosure": false,
+                    "is_FSBO": false,
+                    "is_comingSoon": false,
+                    "is_FSBA": false
+                },
+                "providerListingID": null,
+                "attributionInfo": {
+                    "mlsId": null,
+                    "mlsName": null,
+                    "providerLogo": null,
+                    "agentName": null,
+                    "agentPhoneNumber": null,
+                    "brokerName": null,
+                    "brokerPhoneNumber": null,
+                    "trueStatus": null
+                },
+                "isShowcaseListing": false,
+                "isPremierBuilder": false,
+                "state": "FL",
+                "newConstructionType": null
+            }
+        ],
+        "Comparable Homes": []
+    },
+    {
+        "Zpid": "43590038",
+        "Street_address": "15532 Mango Dr",
+        "City": "Punta Gorda",
+        "State": "FL",
+        "ZipCode": "33955",
+        "Price": null,
+        "Beds": 3,
+        "Baths": 2.0,
+        "Sqr_feet": 1512,
+        "Home_Status": "Pre-foreclosure",
+        "Zestimate": 170500,
+        "RentZestimate": 1750,
+        "Days_on_zillow": 13,
+        "Home_Type": "MANUFACTURED",
+        "Lat_Long": {
+            "latitude": 26.871096,
+            "longitude": -81.992004
+        },
+        "Broker_Name": null,
+        "Event Description": "Affordable Three Bedroom home.  Clean and ready for you to move in.",
+        "Listing Photos": [
+            "https://photos.zillowstatic.com/fp/0c2f64d3eb7565dcee6f8b3cb661c931-p_e.jpg",
+            "https://photos.zillowstatic.com/fp/f373cc857b24d80db9d9f855558d8985-p_e.jpg",
+            "https://photos.zillowstatic.com/fp/bb4d7569236757076a6f680c24eaadc2-p_e.jpg",
+            "https://photos.zillowstatic.com/fp/9936a54f3d7afec802a3aa9ab854d2f8-p_e.jpg",
+            "https://photos.zillowstatic.com/fp/f483ab1d609f9c25e1cf82ef4572163a-p_e.jpg",
+            "https://photos.zillowstatic.com/fp/f8bb883ee6f0a5463eb9c60b73ae64ef-p_e.jpg",
+            "https://photos.zillowstatic.com/fp/8ff2091e3a59af742a4b8c12d471d0b7-p_e.jpg",
+            "https://photos.zillowstatic.com/fp/b104a9074af1de8890bc17f2b435687d-p_e.jpg",
+            "https://photos.zillowstatic.com/fp/784e664232be6cfa3bac193d350196bd-p_e.jpg",
+            "https://photos.zillowstatic.com/fp/4f9ea82c976c73bbebcccb357319c382-p_e.jpg",
+            "https://photos.zillowstatic.com/fp/1f01a99aa780252f9811185da7a84f25-p_e.jpg",
+            "https://photos.zillowstatic.com/fp/707e4ba5d361efaae37cc678d76beedc-p_e.jpg",
+            "https://photos.zillowstatic.com/fp/9ab7b19e4fdd3f591ff618283dabec72-p_e.jpg"
+        ],
+        "Complete_url": "https://www.zillow.com/homedetails/15532-Mango-Dr-Punta-Gorda-FL-33955/43590038_zpid/",
+        "URL": "https://www.zillow.com/homedetails/15532-Mango-Dr-Punta-Gorda-FL-33955/43590038_zpid/",
+        "Structure Area": null,
+        "Type": "MobileManufactured",
+        "Year Built": "2005",
+        "Heating": "Forced air",
+        "Cooling": "Central",
+        "Parking": "No Data",
+        "HOA": "",
+        "Lot": "",
+        "Price/sqft": "",
+        "Offer Review Date": null,
+        "Foreclosure Details": {
+            "trusteeName": null,
+            "trusteeAddress": null,
+            "trusteePhone": null,
+            "legalDescription": null,
+            "subdivision": "SOUTH PUNTA GORDA HEIGHTS 8TH ADDITION",
+            "recordedDocs": [
+                {
+                    "name": "Notice of Sale",
+                    "number": "3519607",
+                    "date": 1745391600000
+                }
+            ],
+            "apn": "412334228020",
+            "foreclosureDefaultFilingDate": null,
+            "foreclosureAuctionFilingDate": "2025-04-23 00:00:00",
+            "foreclosureLoanDate": null,
+            "foreclosureLoanOriginator": "LAKEVIEW LOAN SERVICING LLC",
+            "foreclosureLoanAmount": null,
+            "foreclosurePriorSaleDate": 1514851200000,
+            "foreclosurePriorSaleAmount": 77900,
+            "foreclosureBalanceReportingDate": null,
+            "foreclosureDefaultDescription": null,
+            "foreclosurePastDueBalance": null,
+            "foreclosureUnpaidBalance": 96910,
+            "foreclosureAuctionTime": 1749207600000,
+            "foreclosureAuctionDescription": "Notice of Sale",
+            "foreclosureAuctionCity": null,
+            "foreclosureAuctionLocation": "WWW.CHARLOTTE.REALFORECLOSE.COM",
+            "foreclosureDate": null,
+            "foreclosureAmount": null,
+            "foreclosingBank": "LAKEVIEW LOAN SERVICING LLC",
+            "foreclosureJudicialType": "Judicial"
+        },
+        "Agent_name": null,
+        "Agent_phone": null,
+        "Price History": [
+            {
+                "date": "2018-01-02",
+                "price": 77900,
+                "time": 1514851200000,
+                "pricePerSquareFoot": 52,
+                "priceChangeRate": -0.08352941176470588,
+                "event": "Sold",
+                "source": "Public Record",
+                "buyerAgent": null,
+                "sellerAgent": {
+                    "photo": null,
+                    "profileUrl": "/profile/sandy3804/",
+                    "name": "Sandra Winkler"
+                },
+                "showCountyLink": false,
+                "postingIsRental": false,
+                "attributeSource": {
+                    "infoString1": null,
+                    "infoString2": "Public Record",
+                    "infoString3": null
+                }
+            },
+            {
+                "date": "2017-10-16",
+                "price": 85000,
+                "time": 1508112000000,
+                "pricePerSquareFoot": 56,
+                "priceChangeRate": 0.3076923076923077,
+                "event": "Listed for sale",
+                "source": "S N D REALTY",
+                "buyerAgent": null,
+                "sellerAgent": null,
+                "showCountyLink": false,
+                "postingIsRental": false,
+                "attributeSource": {
+                    "infoString1": "N5914606",
+                    "infoString2": "S N D REALTY",
+                    "infoString3": null
+                }
+            },
+            {
+                "date": "2015-02-26",
+                "price": 65000,
+                "time": 1424908800000,
+                "pricePerSquareFoot": 43,
+                "priceChangeRate": 0,
+                "event": "Listing removed",
+                "source": "THOMAS RYAN REAL ESTATE MANAGE (274500223)",
+                "buyerAgent": null,
+                "sellerAgent": null,
+                "showCountyLink": false,
+                "postingIsRental": false,
+                "attributeSource": {
+                    "infoString1": "C7207432",
+                    "infoString2": "THOMAS RYAN REAL ESTATE MANAGE (274500223)",
+                    "infoString3": null
+                }
+            },
+            {
+                "date": "2015-01-30",
+                "price": 65000,
+                "time": 1422576000000,
+                "pricePerSquareFoot": 43,
+                "priceChangeRate": 5.25,
+                "event": "Listed for sale",
+                "source": "THOMAS RYAN REAL ESTATE MANAGE (274500223)",
+                "buyerAgent": null,
+                "sellerAgent": null,
+                "showCountyLink": false,
+                "postingIsRental": false,
+                "attributeSource": {
+                    "infoString1": "C7207432",
+                    "infoString2": "THOMAS RYAN REAL ESTATE MANAGE (274500223)",
+                    "infoString3": null
+                }
+            },
+            {
+                "date": "2013-02-26",
+                "price": 10400,
+                "time": 1361836800000,
+                "pricePerSquareFoot": 7,
+                "priceChangeRate": -0.8905263157894737,
+                "event": "Sold",
+                "source": "Public Record",
+                "buyerAgent": null,
+                "sellerAgent": null,
+                "showCountyLink": false,
+                "postingIsRental": false,
+                "attributeSource": {
+                    "infoString1": null,
+                    "infoString2": "Public Record",
+                    "infoString3": null
+                }
+            },
+            {
+                "date": "2008-09-29",
+                "price": 95000,
+                "time": 1222646400000,
+                "pricePerSquareFoot": 63,
+                "priceChangeRate": 0,
+                "event": "Listing removed",
+                "source": "Prudential Real Estate",
+                "buyerAgent": null,
+                "sellerAgent": null,
+                "showCountyLink": false,
+                "postingIsRental": false,
+                "attributeSource": {
+                    "infoString1": "C696750",
+                    "infoString2": "Prudential Real Estate",
+                    "infoString3": null
+                }
+            },
+            {
+                "date": "2008-05-29",
+                "price": 95000,
+                "time": 1212019200000,
+                "pricePerSquareFoot": 63,
+                "priceChangeRate": 2.4926470588235294,
+                "event": "Listed for sale",
+                "source": "Prudential Real Estate",
+                "buyerAgent": null,
+                "sellerAgent": null,
+                "showCountyLink": false,
+                "postingIsRental": false,
+                "attributeSource": {
+                    "infoString1": "C696750",
+                    "infoString2": "Prudential Real Estate",
+                    "infoString3": null
+                }
+            },
+            {
+                "date": "2005-05-27",
+                "price": 27200,
+                "time": 1117152000000,
+                "pricePerSquareFoot": 18,
+                "priceChangeRate": 0,
+                "event": "Sold",
+                "source": "Public Record",
+                "buyerAgent": null,
+                "sellerAgent": null,
+                "showCountyLink": false,
+                "postingIsRental": false,
+                "attributeSource": {
+                    "infoString1": null,
+                    "infoString2": "Public Record",
+                    "infoString3": null
+                }
+            }
+        ],
+        "Tax History": [
+            {
+                "time": 1715010292674,
+                "taxPaid": 2657.99,
+                "taxIncreaseRate": -0.0011799096,
+                "value": 115209,
+                "valueIncreaseRate": 0.10000478
+            },
+            {
+                "time": 1683387892674,
+                "taxPaid": 2661.13,
+                "taxIncreaseRate": 0.18604006,
+                "value": 104735,
+                "valueIncreaseRate": 0.0999958
+            },
+            {
+                "time": 1651851892674,
+                "taxPaid": 2243.71,
+                "taxIncreaseRate": 0.11722407,
+                "value": 95214,
+                "valueIncreaseRate": 0.10000231
+            },
+            {
+                "time": 1620315892674,
+                "taxPaid": 2008.29,
+                "taxIncreaseRate": 0.006848405,
+                "value": 86558,
+                "valueIncreaseRate": -0.0053548445
+            },
+            {
+                "time": 1588779892674,
+                "taxPaid": 1994.63,
+                "taxIncreaseRate": 0.056158926,
+                "value": 87024,
+                "valueIncreaseRate": 0.066209264
+            },
+            {
+                "time": 1557157492674,
+                "taxPaid": 1888.57,
+                "taxIncreaseRate": 0.1623042,
+                "value": 81620,
+                "valueIncreaseRate": 0.1
+            },
+            {
+                "time": 1525621492674,
+                "taxPaid": 1624.85,
+                "taxIncreaseRate": 0,
+                "value": 74200,
+                "valueIncreaseRate": 0.34082654
+            },
+            {
+                "time": 1494085492674,
+                "taxPaid": 1624.85,
+                "taxIncreaseRate": 0.25174302,
+                "value": 55339,
+                "valueIncreaseRate": 0.16793297
+            },
+            {
+                "time": 1462549492674,
+                "taxPaid": 1298.07,
+                "taxIncreaseRate": 0.07306882,
+                "value": 47382,
+                "valueIncreaseRate": 0.011247465
+            },
+            {
+                "time": 1430927092674,
+                "taxPaid": 1209.68,
+                "taxIncreaseRate": 0.015684344,
+                "value": 46855,
+                "valueIncreaseRate": 0.06833417
+            },
+            {
+                "time": 1399391092674,
+                "taxPaid": 1191,
+                "taxIncreaseRate": 0,
+                "value": 43858,
+                "valueIncreaseRate": 0.5384993
+            },
+            {
+                "time": 1367855092674,
+                "taxPaid": null,
+                "taxIncreaseRate": 0,
+                "value": 28507,
+                "valueIncreaseRate": 0.0299888
+            },
+            {
+                "time": 1336319092674,
+                "taxPaid": null,
+                "taxIncreaseRate": 0,
+                "value": 27677,
+                "valueIncreaseRate": 0
+            },
+            {
+                "time": 1304696692674,
+                "taxPaid": null,
+                "taxIncreaseRate": 0,
+                "value": 27677,
+                "valueIncreaseRate": 0.014999267
+            },
+            {
+                "time": 1273160692674,
+                "taxPaid": null,
+                "taxIncreaseRate": 0,
+                "value": 27268,
+                "valueIncreaseRate": 0.027004633
+            },
+            {
+                "time": 1241624692674,
+                "taxPaid": null,
+                "taxIncreaseRate": 0,
+                "value": 26551,
+                "valueIncreaseRate": 0.056840345
+            },
+            {
+                "time": 1178466292674,
+                "taxPaid": null,
+                "taxIncreaseRate": 0,
+                "value": 25123,
+                "valueIncreaseRate": 0
+            },
+            {
+                "time": 1146930292674,
+                "taxPaid": null,
+                "taxIncreaseRate": 0,
+                "value": 25123,
+                "valueIncreaseRate": 0.08743453
+            },
+            {
+                "time": 1115394292674,
+                "taxPaid": null,
+                "taxIncreaseRate": 0,
+                "value": 23103,
+                "valueIncreaseRate": 0.019010233
+            },
+            {
+                "time": 1083858292674,
+                "taxPaid": null,
+                "taxIncreaseRate": 0,
+                "value": 22672,
+                "valueIncreaseRate": 0
+            },
+            {
+                "time": 1052235892674,
+                "taxPaid": null,
+                "taxIncreaseRate": 0,
+                "value": 22672,
+                "valueIncreaseRate": 0.023982657
+            },
+            {
+                "time": 1020699892674,
+                "taxPaid": 342.12,
+                "taxIncreaseRate": 0.22755644,
+                "value": 22141,
+                "valueIncreaseRate": 0.016015051
+            },
+            {
+                "time": 989163892674,
+                "taxPaid": 278.7,
+                "taxIncreaseRate": 0.14880463,
+                "value": 21792,
+                "valueIncreaseRate": 0.030013707
+            },
+            {
+                "time": 957627892674,
+                "taxPaid": 242.6,
+                "taxIncreaseRate": 0,
+                "value": 21157,
+                "valueIncreaseRate": 0
+            }
+        ],
+        "Nearby Homes": [],
+        "Comparable Homes": []
+    }
+]
