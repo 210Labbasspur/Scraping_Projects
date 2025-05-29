@@ -1,0 +1,88 @@
+Extract the project,
+
+Go to browser past the link to download python3.10.0
+
+1 - https://www.python.org/ftp/python/3.10.0/python-3.10.0-amd64.exe(windows)
+download it and double click when it open there would be an option
+
+add path 
+
+please select add path compulsory.
+
+
+2 - https://www.python.org/ftp/python/3.10.0/python-3.10.0post2-macos11.pkg(MAC OS)
+     2.1 - for macbook sometimes in old macbook versions python 2.7 is installed if you have new macbook and python 3.10.0 installed as default donot proceed with next steps go straight to step 4, which is quite dificult to uninstall,so we don't need to unintall. 
+     
+     2.2 - when you installed python 3.10, check it by writing command : python3 --version
+if it displays python version 3.10.* | that is fine to work on.
+
+     2.3 - now install virtualenv using pip, write command using pip or pip3 : pip3 install virtualenv
+it will install virtualenv library.
+
+     2.4 - open the new terminal window and write : cd (drag and drop project folder in terminal)
+it will open the project folder in terminal.
+
+     2.5 - now create a virtualenv of python3.10 write : virtualenv myenv --python=python3.10
+
+     2.6 - activate the virtualenv write : source myenv/bin/activate
+you will see (myenv) before line starting in terminal. now proceed to step number 4.
+
+     2.7 - *****For daily running*****
+          2.7.1 - open the terminal window write : cd (drag the project folder and press enter)
+          2.7.2 - activate virtualenv write : source myenv/bin/activate
+          2.7.3 - proceed to step 5 for Mac.
+
+
+
+3 - for Linux OS
+
+     3.1-sudo apt update
+     3.2-sudo apt install software-properties-common
+
+     3.3-sudo add-apt-repository ppa:deadsnakes/ppa
+
+     Press [ENTER] to continue or Ctrl-c to cancel adding it.
+
+     3.4-sudo apt install python3.10
+
+     install pip?
+
+     sudo apt install python3-pip
+
+
+
+now after installation please open the terminal/cmd
+
+4 - write following commands one by one.
+pip install --upgrade pip
+pip install scrapy
+pip install scrapy-xlsx
+pip install pandas
+pip install scrapy-poet
+pip install pyexcel
+pip install openpyxl==3.0.10
+pip install scrapy-zyte-api
+
+5- Before running the script go to "Zillow/Zillow/ZilloSpider.py" find the TODO in it. Replace "Your-Api-Key" with actual zyte api key.
+
+*****************Mac******************
+
+in the terminal you should be in project where inputs/outputs folder presents, so write the command:
+
+scrapy crawl zillow_spider
+
+
+*****************Windows & Linux***************** 
+now go to extracted folder
+if not in windows please run the scraper using terminal command make sure you are in folder where spiders folder present
+scrapy crawl zillow_spider
+
+ OR
+
+double click on runner.bat files to run it is for windows.
+
+
+
+thanks
+
+
