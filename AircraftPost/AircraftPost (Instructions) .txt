@@ -1,0 +1,33 @@
+Download the Scrapy Project:
+Download the Scrapy project folder sent to you and extract its contents to a location of your choice.
+
+Prerequisites:
+
+(Install Python)
+	 - If Python is not installed on your system, download and install the latest version from python.org.
+(Install Scrapy)
+	 - Open a command prompt or terminal window.
+	 - Run the following command to install Scrapy:
+	                  "pip install scrapy"
+
+
+Now follow these Steps to run the project
+
+STEP -1 : Open a Command Prompt or Terminal:
+
+	- Open a command prompt (Windows) or terminal (macOS/Linux) window.
+	- Navigate to the Project Directory:
+	- Use the cd command to navigate to the top-level directory of the Scrapy project.
+
+	cd path\to\your\scrapy\project
+
+
+
+STEP - 2 : Run the Scrapy Spider (one-by-oone):
+
+	Run the Scrapy spider using the following command:
+
+	scrapy crawl AircraftPost_Sales
+	and
+	scrapy crawl AircraftPost
+
