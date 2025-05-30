@@ -1,0 +1,41 @@
+Website 1:
+https://myairbp.bpglobal.com
+Login with username and password.
+info@cloudinternational.eu
+Faro2024!!
+
+Click Fuel Prices and type in location eg LPFR and click "See Results"
+There is a graphql function call, review the JSON from this and compare it to the sample invoice so you can compute the cost of 150 and 300 litres of fuel.
+
+Website 2:
+https://myworld.air.wfscorp.com/
+
+Login with username and password.
+Cloudintedmond
+Faro2024
+
+You can see a sample invoice on this page:
+https://myworld.air.wfscorp.com/invoices/regular;source=fromL1
+The invoice is for 182 litres in the example.
+
+Output as csv and kml file with calculation for 150 and 300 litres total price. Also show the breakdown of the price computation eg hookup fee, taxes etc.
+
+I have attached a file called Air BP locations which shows you the full list of airports, I would just suggest to start with Portugal and Spain initially 
+but see if it runs over all airports, you can also find within the website more information.
+
+There will be some work in figuring out the price as some conditional items might not apply too (eg overtime fee) so you might have to have some logic 
+around this. There are sample invoices to help you with this.
+
+Please keep me advised on how you are progressing.
+
+
+library for lat and long
+https://pypi.org/project/airportsdata/
+
+
+
+
+
+
+
+

@@ -1,0 +1,162 @@
+{
+	"data": {
+		"fuelPrice": {
+			"errors": null,
+			"reason": null,
+			"status": "SUCCESS",
+			"grn": "1214800",
+			"customerType": "GA",
+			"prices": [
+				{
+					"airportInformation": {
+						"fuelProvider": "Air bp",
+						"fuelProviderEmail": "faro.airport@ec1.bp.com, gairbpwestmedpx@bp.com, paulo.castanheira@ec1.bp.com, ruben.isidro@ec1.bp.com, gairbpspanishfuelreleases@bp.com, jesus.presafernandez@ec1.bp.com, michelle.adriao@bp.com, tiago.pereira@bp.com, JLuis.Bardon@ec1.bp.com, rodrigo.pastor@bp.com, Raquel.alonsocaja@ec1.bp.com, casilda.am@bp.com, ines.cifuentes_darnaude@bp.com",
+						"fuelProviderFax": "",
+						"fuelProviderOpeningHours": "Time:08:00 To 0:00",
+						"fuelProviderTelephone": "+351 919 230 635, +351 21 389 1278, 3.52E+11, +34 981 54 78 19,+34 660 98 10 38,+34 660 98 10 39, +34 610 51 99 23, +44 1932 762402,+44 1932 762402, +34 914 14 75 70, +34 672 14 04 70, +34 914 14 74 06, +34 607 02 37 02, +34 607 15 38 63",
+						"isFuelAvailableOutOfHours": "No",
+						"preAdvisedFlightInfo": "Prior Notice/2 Hours",
+						"airBPCustomerServicePhone": "+971 5 04536032",
+						"airBPCustomerServiceEmail": "airbp247@bp.com",
+						"__typename": "AirportInfo"
+					},
+					"country": "PT",
+					"countryName": "PORTUGAL",
+					"deliveryArea": "Air bp Refueller",
+					"deliveryPointUid": "01",
+					"fuelProvider": "Air bp",
+					"fuelType": "Jet",
+					"iata": "FAO",
+					"icao": "LPFR",
+					"location": "FAO",
+					"locationName": "Faro Algarve",
+					"price": {
+						"bandPriceDesc": "STERLING CARD INTERNATIONAL AG-XC",
+						"currency": "EUR",
+						"currencyConverted": "true",
+						"effectiveFrom": "01-Jan-2024",
+						"effectiveTo": "31-Jan-2024",
+						"isFallback": "false",
+						"isISP": "false",
+						"mandatoryConditionalFixed": "401.684699128842",
+						"mandatoryConditionalVariable": "0.47409660270178927",
+						"mandatoryFixed": "37.96042522106044",
+						"mandatoryFixedCurrency": "EUR",
+						"mandatoryFixedUOM": "L",
+						"mandatoryVariable": "0.005582415473685358",
+						"mandatoryVariableCurrency": "EUR",
+						"mandatoryVariableUOM": "L",
+						"netPriceConverted": "1.060126",
+						"priceBasisConverted": "1.1",
+						"priceDiffConverted": "-0.039874",
+						"pricingBasis": "Sterling Card Member Rate",
+						"totalPrice": "1.060126",
+						"unitOfMeasurement": "L",
+						"__typename": "PriceItem"
+					},
+					"product": "JETS",
+					"taxesAndFees": {
+						"compulsory": [
+							{
+								"aviationType": "All",
+								"chargeType": "Variable",
+								"currency": "EUR",
+								"group": "Into-Plane/Refuelling Service Fees",
+								"name": "Airport Fee",
+								"unitOfMeasurement": "L",
+								"value": "0.005582415473685358",
+								"__typename": "TaxesAndFeesData"
+							},
+							{
+								"aviationType": "GA & Military",
+								"chargeType": "Fixed",
+								"currency": "EUR",
+								"group": "Into-Plane/Refuelling Service Fees",
+								"name": "Hook-Up Fee - GA",
+								"unitOfMeasurement": "L",
+								"value": "37.96042522106044",
+								"__typename": "TaxesAndFeesData"
+							}
+						],
+						"conditional": [
+							{
+								"aviationType": "GA & Military",
+								"chargeType": "Fixed",
+								"currency": "EUR",
+								"group": "Into-Plane/Refuelling Service Fees",
+								"name": "Over-wing Fee",
+								"unitOfMeasurement": "L",
+								"value": "26.91521746241155",
+								"__typename": "TaxesAndFeesData"
+							},
+							{
+								"aviationType": "All",
+								"chargeType": "Fixed",
+								"currency": "EUR",
+								"group": "Into-Plane/Refuelling Service Fees",
+								"name": "Overtime Fee (Fixed)",
+								"unitOfMeasurement": "L",
+								"value": "213.32801988726192",
+								"__typename": "TaxesAndFeesData"
+							},
+							{
+								"aviationType": "All",
+								"chargeType": "Fixed",
+								"currency": "EUR",
+								"group": "Into-Plane/Refuelling Service Fees",
+								"name": "No Uplift Fee",
+								"unitOfMeasurement": "L",
+								"value": "95.69855097746328",
+								"__typename": "TaxesAndFeesData"
+							},
+							{
+								"aviationType": "All",
+								"chargeType": "Fixed",
+								"currency": "EUR",
+								"group": "Into-Plane/Refuelling Service Fees",
+								"name": "Customs Surcharge",
+								"unitOfMeasurement": "L",
+								"value": "17.893635312973604",
+								"__typename": "TaxesAndFeesData"
+							},
+							{
+								"aviationType": "All",
+								"chargeType": "Fixed",
+								"currency": "EUR",
+								"group": "Into-Plane/Refuelling Service Fees",
+								"name": "IATA LEVEL III",
+								"unitOfMeasurement": "L",
+								"value": "47.84927548873164",
+								"__typename": "TaxesAndFeesData"
+							},
+							{
+								"aviationType": "All",
+								"chargeType": "Percentage",
+								"currency": "EUR",
+								"group": "Duties and Taxes",
+								"name": "Value Added Tax (VAT)",
+								"unitOfMeasurement": "L",
+								"value": "0.23",
+								"__typename": "TaxesAndFeesData"
+							},
+							{
+								"aviationType": "All",
+								"chargeType": "Variable",
+								"currency": "EUR",
+								"group": "Duties and Taxes",
+								"name": "Mineral Oil Tax (MOT)",
+								"unitOfMeasurement": "L",
+								"value": "0.47409660270178927",
+								"__typename": "TaxesAndFeesData"
+							}
+						],
+						"deliveryType": "Into-Wing with into-plane services",
+						"__typename": "TaxesAndFeesType"
+					},
+					"__typename": "PriceItems"
+				}
+			],
+			"__typename": "FuelPriceSchema"
+		}
+	}
+}
