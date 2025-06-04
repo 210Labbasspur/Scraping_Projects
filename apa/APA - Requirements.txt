@@ -1,0 +1,15 @@
+Here is a task for data scraping:
+
+Goto: https://www.a-p-a.net/members
+
+Scrape the following data fields if available: 
+Company Name
+Company Service Type (Production Company etc) 
+Company Website
+Contact
+Email
+Address
+
+
+
+and save data into the MongoDB.
