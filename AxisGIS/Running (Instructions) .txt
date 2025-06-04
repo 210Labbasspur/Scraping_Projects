@@ -1,0 +1,32 @@
+******************************************************************************************************************************************************************************************
+******************************************************************************************************************************************************************************************
+		         	Project Prerequisites
+		
+	1. Install Python
+	2. Install Scrapy Library
+
+		         Either - Follow these Steps to Run your Project
+
+
+	1. Keep your input file in folder "input " with name "Bristol Property Addresses.xlsx" and format "xlsx - excell sheet".
+
+	2. Follow these steps to run your project script.
+
+	STEP -1 : Open a Command Prompt or Terminal:
+
+	- Open a command prompt (Windows) or terminal (macOS/Linux) window.
+	- Navigate to the Project Directory:
+	- Use the cd command to navigate to the top-level directory of the Scrapy project.
+
+	"cd path\to\your\scrapy\project"
+
+	STEP - 2 : Run the Scrapy spider using the following command:		"scrapy crawl AxisGIS"
+
+
+			            OR   
+
+
+            ***   Just run AxisGIS.bat file as administrator and your desired output will be saved inside output folder    *** 
+
+******************************************************************************************************************************************************************************************
+******************************************************************************************************************************************************************************************
