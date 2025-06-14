@@ -1,0 +1,37 @@
+----------------------------------------------------------------------------------------------------------------------------------------------------
+							   Extract the project
+----------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+-------------------------------------------------  	(Before Running the project)		----------------------------------------------------
+
+
+now after installation please open the terminal/cmd
+
+4 - write following commands one by one.
+pip install --upgrade pip
+pip install scrapy
+pip install OrderedDict
+
+
+------------------------------------------------  	(Running the project in Windows)	-----------------------------------------------------
+Go to extracted folder
+
+1. Double click on Runner.bat files to run it is for windows.
+
+2. If not in windows please run the scraper using terminal command make sure you are in folder where spiders folder present "scrapy crawl finviz"
+
+
+
+------------------------------------------------   	(Running the project in MAC)		-----------------------------------------------------
+
+In the terminal you should be in project where inputs/outputs folder presents, so write the command:
+
+"scrapy crawl finviz"
+
+
+
+----------------------------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------			  (Thanks)			------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------------------
+
