@@ -1,0 +1,31 @@
+***********************************************************************************************************************************************************
+***********************************************************************************************************************************************************
+	         	Project Prerequisites
+		
+1. Install Python 3.10.1
+2. Install Scrapy Library (You can google the procedure)
+
+
+	   Follow these Steps to Run your Project
+
+		1st Method:
+ -  You can run the project by double_clicking "FightOdds.bat" file.
+
+		2nd Method
+STEP -1 : Open a Command Prompt or Terminal:
+
+	- Open a command prompt (Windows) or terminal (macOS/Linux) window.
+	- Navigate to the Project Directory:- Use the cd command to navigate to the top-level directory of the Scrapy project.
+
+	"cd path\to\your\scrapy\project"
+
+STEP - 2 : Run the Scrapy spider using the following command:
+
+	"scrapy crawl FightOdds_IO"
+
+		Result
+- Your output will be saved inside Output folder.
+
+***********************************************************************************************************************************************************
+***********************************************************************************************************************************************************
+	
