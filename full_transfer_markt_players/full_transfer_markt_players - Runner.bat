@@ -1,0 +1,2 @@
+scrapy crawl full_transfer_markt_players
+pause
